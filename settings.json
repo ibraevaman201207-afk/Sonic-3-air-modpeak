@@ -1,0 +1,2714 @@
+{
+	"Audio" : 
+	{
+		"ActiveSoundtrack" : 1,
+		"MasterVolume" : 1.0,
+		"MusicVolume" : 1.0,
+		"SampleRate" : 48000,
+		"SoundVolume" : 0.80000001192092896
+	},
+	"Backdrop" : 0,
+	"BackgroundBlur" : 2,
+	"CleanupSettings" : 0,
+	"DevMode" : 
+	{
+		"DevModeUI" : 
+		{
+			"AccentColor" : "0x337fcc",
+			"ActiveMainWindowTab" : 0,
+			"ApplyModSettingsAfterLoadState" : false,
+			"MainWindowOpen" : true,
+			"OpenWindows" : [],
+			"Scale" : 1.0,
+			"ScrollByDragging" : true,
+			"UseTabsInMainWindow" : true
+		},
+		"EnableROMDataAnalyser" : false,
+		"Enabled" : false,
+		"ExternalCodeEditor" : 
+		{
+			"CustomEditorArgs" : "--file \"{file}\" --line {line}",
+			"CustomEditorPath" : "",
+			"NppPath" : "",
+			"Type" : "",
+			"VSCodePath" : ""
+		},
+		"LoadLevel" : "0xffffffffffffffff",
+		"LoadSaveState" : "",
+		"UseCharacters" : 1
+	},
+	"DisplayIndex" : 0,
+	"FailSafeMode" : false,
+	"Filtering" : 1,
+	"FrameSync" : 0,
+	"Fullscreen" : 1,
+	"GameExePath" : "C:\\Users\\User\\Desktop\\all game sonic\\sonic 3 and knuckles\\Sonic 3 and knuckles.exe",
+	"GameRecordingMode" : -1,
+	"GameServer" : 
+	{
+		"GhostSync" : 
+		{
+			"ChannelName" : "world",
+			"Enabled" : false,
+			"GhostRendering" : 1,
+			"ShowOffscreenGhosts" : true
+		},
+		"ServerAddress" : "gameserver.sonic3air.org",
+		"ServerPortTCP" : 21095,
+		"ServerPortUDP" : 21094,
+		"ServerPortWSS" : 21096,
+		"UpdateCheck" : 
+		{
+			"ReleaseChannel" : 0
+		}
+	},
+	"GameSettings" : 
+	{
+		"SETTING_AIZ_BLIMPSEQUENCE" : 1,
+		"SETTING_AIZ_INTRO_KNUCKLES" : 1,
+		"SETTING_AUDIO_COMPETITION_MENU" : 1,
+		"SETTING_AUDIO_CONTINUE_SCREEN" : 0,
+		"SETTING_AUDIO_EXTRALIFE_JINGLE" : 16,
+		"SETTING_AUDIO_HPZ_MUSIC" : 2,
+		"SETTING_AUDIO_INVINCIBILITY_THEME" : 0,
+		"SETTING_AUDIO_KNUCKLES_THEME" : 2,
+		"SETTING_AUDIO_MINIBOSS_THEME" : 16,
+		"SETTING_AUDIO_OUTRO" : 2,
+		"SETTING_AUDIO_SUPER_THEME" : 5,
+		"SETTING_AUDIO_TITLE_THEME" : 0,
+		"SETTING_BS_COUNTDOWN_RINGS" : 1,
+		"SETTING_BS_REPEAT_ON_FAIL" : 0,
+		"SETTING_BS_VISUAL_STYLE" : 0,
+		"SETTING_BUBBLE_SHIELD_BOUNCE" : 0,
+		"SETTING_CAMERA_OUTRUN" : 1,
+		"SETTING_CANCEL_FLIGHT" : 1,
+		"SETTING_CNZ_PROTOTYPE_MUSIC" : 0,
+		"SETTING_CONTINUE_MUSIC" : 1,
+		"SETTING_DEBUG_MODE" : 0,
+		"SETTING_DISABLE_GHOST_SPAWN" : 0,
+		"SETTING_DROPDASH" : 0,
+		"SETTING_EXTENDED_CAMERA" : 1,
+		"SETTING_EXTENDED_HUD" : 1,
+		"SETTING_FASTER_PUSH" : 0,
+		"SETTING_FBZ2_MIDBOSS_TRACK" : 0,
+		"SETTING_FBZ_ENTERCYLINDER" : 1,
+		"SETTING_FBZ_SCREWDOORS" : 1,
+		"SETTING_FIX_GLITCHES" : 1,
+		"SETTING_GFX_ANTIFLICKER" : 1,
+		"SETTING_HCZ_WATERPIPE" : 1,
+		"SETTING_HIDDEN_MONITOR_HINT" : 1,
+		"SETTING_HYPER_DASH_CONTROLS" : 1,
+		"SETTING_HYPER_TAILS" : 1,
+		"SETTING_ICZ_NIGHTTIME" : 1,
+		"SETTING_ICZ_PROTOTYPE_MUSIC" : 0,
+		"SETTING_INFINITE_LIVES" : 0,
+		"SETTING_INFINITE_TIME" : 0,
+		"SETTING_INSTA_SHIELD" : 1,
+		"SETTING_LBZ_BIGARMS" : 1,
+		"SETTING_LBZ_CUPELEVATOR" : 1,
+		"SETTING_LBZ_PROTOTYPE_MUSIC" : 0,
+		"SETTING_LBZ_TUBETRANSPORT" : 0,
+		"SETTING_LEVELLAYOUTS" : 0,
+		"SETTING_LEVELRESULT_SCORE" : 1,
+		"SETTING_LIVES_DISPLAY" : 1,
+		"SETTING_LRZ2_BOSS" : 0,
+		"SETTING_MAINTAIN_SHIELDS" : 1,
+		"SETTING_MHZ_ELEVATOR" : 0,
+		"SETTING_MONITOR_BEHAVIOR" : 0,
+		"SETTING_MONITOR_STYLE" : 0,
+		"SETTING_NO_CONTROL_LOCK" : 0,
+		"SETTING_PLAYER2_OFFSCREEN" : 1,
+		"SETTING_RANDOM_MONITORS" : 0,
+		"SETTING_RANDOM_SPECIALSTAGES" : 1,
+		"SETTING_REGION_CODE" : 128,
+		"SETTING_SHIELD_TYPES" : 1,
+		"SETTING_SMOOTH_ROTATION" : 1,
+		"SETTING_SOZ_PYRAMID" : 1,
+		"SETTING_SPEEDUP_AFTERIMGS" : 1,
+		"SETTING_SSZ_BOSS_TRACKS" : 1,
+		"SETTING_SUPERFAST_RUNANIM" : 1,
+		"SETTING_SUPER_CANCEL" : 0,
+		"SETTING_SUPER_PEELOUT" : 0,
+		"SETTING_SUPER_SONIC_ABILITY" : 0,
+		"SETTING_TAILS_ASSIST_MODE" : 1,
+		"SETTING_TIME_ATTACK_GHOSTS" : 5,
+		"SETTING_UNDERWATER_AUDIO" : 1
+	},
+	"GameVersion" : "26.03.28.0",
+	"GamepadVisualStyle" : 1,
+	"Input" : 
+	{
+		"AutoAssignGamepadPlayerIndex" : -1,
+		"ControllerRumblePlayer1" : 0.0,
+		"ControllerRumblePlayer2" : 0.0,
+		"ControllerRumblePlayer3" : 0.0,
+		"ControllerRumblePlayer4" : 0.0,
+		"PreferredGamepadPlayer1" : "PS4 Controller",
+		"PreferredGamepadPlayer2" : "Nintendo Switch Joy-Con (L)",
+		"PreferredGamepadPlayer3" : "",
+		"PreferredGamepadPlayer4" : ""
+	},
+	"InstantTimeAttackRestart" : 1,
+	"ModSettings" : 
+	{
+		"!S3.AIR.U.M.R Palette Changer!" : 
+		{
+			"PaletteSwitcher_Sonic" : 0
+		},
+		"1-Up Sounds" : 
+		{
+			"1UpSound" : 0
+		},
+		"200 Rings in ddz" : 
+		{
+			"Rings" : 3
+		},
+		"3D2DSpindash" : 
+		{
+			"SpinDashEffect" : 1
+		},
+		"AIZ 32X" : 
+		{
+			"UseottsUnburntAIZ2.background" : 0,
+			"UseottsUnburntAIZ2.transition" : 1,
+			"UseottsUnburntAIZ2.unburn" : 0,
+			"UseottsUnburntAIZ2.usemusic" : 0
+		},
+		"AIZ1 Visuals Plus" : 
+		{
+			"ENABLE_3D_WATER" : 1,
+			"ENABLE_CAVES_N_FOLIAGE" : 1,
+			"ENABLE_RUNNING_GRASS" : 1,
+			"ENABLE_WATER_SURFACES" : 1
+		},
+		"Additional Super Hyper Effects" : 
+		{
+			"ASE.AfterOn" : 1,
+			"ASE.CEMS" : 1,
+			"ASE.DashOn" : 3,
+			"ASE.DashRoll" : 0,
+			"ASE.DashSound" : 126,
+			"ASE.DashSprite" : 1,
+			"ASE.EmTfOn" : 3,
+			"ASE.EmTrailOn" : 0,
+			"ASE.FlashOn" : 0,
+			"ASE.FlashShake" : 0,
+			"ASE.InvSparkOn" : 0,
+			"ASE.OutlineOn" : 3,
+			"ASE.SEMS" : 0,
+			"ASE.SparkForm" : 1,
+			"ASE.SparkOn" : 1,
+			"ASE.SparkTails" : 1,
+			"ASE.StarChar" : 0,
+			"ASE.StarOn" : 1,
+			"ASE.StarSprite" : 1
+		},
+		"Alternate Data Select" : 
+		{
+			"AlternateDataSelect.bgTheme" : 0,
+			"AlternateDataSelect.charStyle" : 1,
+			"AlternateDataSelect.cs2Control" : 1,
+			"AlternateDataSelect.presentation" : 2,
+			"AlternateDataSelect.useRemasteredTrack" : 1
+		},
+		"AmbientMod" : 
+		{
+			"AmbientMod.OptEnableCNZGradient" : 1,
+			"AmbientMod.OptEnableClouds" : 1,
+			"AmbientMod.OptEnableCrystalOverlay" : 1,
+			"AmbientMod.OptEnableCrystalSparkle" : 1,
+			"AmbientMod.OptEnableDeathEggDebris" : 1,
+			"AmbientMod.OptEnableDrownVignette" : 0,
+			"AmbientMod.OptEnableExplosionGlow" : 1,
+			"AmbientMod.OptEnableFire" : 1,
+			"AmbientMod.OptEnableFish" : 1,
+			"AmbientMod.OptEnableFlickies" : 1,
+			"AmbientMod.OptEnableFlickiesSFX" : 1,
+			"AmbientMod.OptEnableHyperSonicGFX" : 1,
+			"AmbientMod.OptEnableLRZ1Overlay" : 1,
+			"AmbientMod.OptEnableMGZFallingLeaves" : 1,
+			"AmbientMod.OptEnableMGZFallingSnow" : 1,
+			"AmbientMod.OptEnableMGZGradient" : 1,
+			"AmbientMod.OptEnableMHZBirds" : 1,
+			"AmbientMod.OptEnableMoodyCNZ" : 1,
+			"AmbientMod.OptEnableMoodyICZ" : 1,
+			"AmbientMod.OptEnableOceanWaves" : 1,
+			"AmbientMod.OptEnableRain" : 1,
+			"AmbientMod.OptEnableSOZ1Overlay" : 1,
+			"AmbientMod.OptEnableSOZVignette" : 2,
+			"AmbientMod.OptEnableSeagulls" : 1,
+			"AmbientMod.OptEnableSeagullsSFX" : 1,
+			"AmbientMod.OptEnableShieldGlow" : 1,
+			"AmbientMod.OptEnableSpaceDarkness" : 1,
+			"AmbientMod.OptEnableSpotlights" : 1,
+			"AmbientMod.OptEnableSuperHyperGlow" : 1,
+			"AmbientMod.OptEnableSuperSpeedAura" : 1,
+			"AmbientMod.OptEnableWaterStream" : 1
+		},
+		"Amy" : 
+		{
+			"audio" : 1,
+			"palette" : 0,
+			"twinspin" : 1
+		},
+		"Amy-Galore-misc" : 
+		{
+			"ABILITY ROLL" : 0,
+			"ACTION" : 4,
+			"ACTIONBUTTON" : 0,
+			"ACTIONDOWN" : 0,
+			"ACTIONJUMP" : 0,
+			"ACTIONJUMPDOWN" : 0,
+			"ACTIONJUMPUP" : 0,
+			"ACTIONRUN" : 0,
+			"ACTIONUP" : 0,
+			"AIRCURL" : 0,
+			"AIRMOVELOCK" : 0,
+			"AIZINTRO" : 2,
+			"ATOMLANDINGDEL" : 0,
+			"AmyMISC.DJSTR" : 0,
+			"AmyMISC.DoubleJump" : 0,
+			"AmyMISC.HammerDashStyle" : 0,
+			"AmyMISC.HigherJump" : 0,
+			"BARRELROTSPRITES" : 0,
+			"BIRDIE" : 0,
+			"BIRDIESOUNDS" : 1,
+			"BLUEPALOVERRIDE" : 0,
+			"BOMBKNUX" : 0,
+			"BUMPERNOT" : 0,
+			"CAR" : 0,
+			"CHARGESOUND" : 0,
+			"DOOMS" : 0,
+			"DOUBLEJSOUNDS" : 0,
+			"DUSST" : 0,
+			"FASTERRUSH" : 0,
+			"ForceOriginsNametag" : 0,
+			"GLIDESOUND" : 0,
+			"GLIDETILT" : 0,
+			"HAMMERCANCEL" : 0,
+			"HAMMERCLEAR" : 0,
+			"HAMMERDASHTIME" : 0,
+			"HAMMERFROMJUMP" : 0,
+			"HAMMERGLIDESTYLE" : 0,
+			"HAMMERGLIDETIME" : 0,
+			"HAMMERHITRUSHSOUND" : 0,
+			"HAMMERHITSOUND" : 2,
+			"HAMMERINPLACE" : 0,
+			"HAMMERPROTECT" : 0,
+			"HAMMERRELEASE" : 0,
+			"HAMMERROTATE" : 0,
+			"HAMMERRUSHSTALL" : 0,
+			"HAMMERSPINBOUNCE" : 0,
+			"HAMMERSWINGSTYLE" : 0,
+			"HAMMERTHROW" : 1,
+			"HEARTSS" : 1,
+			"HIGHJUMPATK" : 0,
+			"HIGHJUMPHEIGHT" : 0,
+			"HIGHJUMPROLL" : 0,
+			"HIGHJUMPRUN" : 0,
+			"HIGHJUMPSTYLE" : 0,
+			"HJANIM" : 0,
+			"HJSOUND" : 0,
+			"HOPSTYLE" : 0,
+			"HYPERACTION" : 9,
+			"HYPERFLASH" : 0,
+			"ICEWALLBREAK" : 0,
+			"ICZ2AUTOROLL" : 0,
+			"ICZ2PLATMAX" : 0,
+			"ICZINTRO" : 0,
+			"IDLE" : 0,
+			"IDLEHAMMERSOUND" : 0,
+			"IDLEHAMMERSTARTSOUND" : 0,
+			"IDLEHAMMERSTYLE" : 0,
+			"JUMPABILITY" : 0,
+			"JUMPCHARGE" : 0,
+			"KEEPBOOSTS" : 0,
+			"MAXDASH" : 0,
+			"MHZBYPASS" : 0,
+			"MOMENTUMHIJUMP" : 0,
+			"MOVEDEPENDANTSOUNDS" : 0,
+			"MOVESET" : 0,
+			"MOVESWITCH" : 0,
+			"MOVESWITCHHUD" : 1,
+			"MOVESWITCHSOUNDS" : 0,
+			"NAMESPRITE" : 0,
+			"NOROLL" : 0,
+			"NOROLLCANDAMAGE" : 0,
+			"NOROLLFLOORBREAK" : 0,
+			"NOROLLJ" : 0,
+			"NOROLLWALLBREAK" : 0,
+			"NOSPIN" : 0,
+			"NUZLOCKE" : 0,
+			"ORIGINRUSHBEHAVIOUR" : 0,
+			"PALETTE" : 0,
+			"PALETTEHYP" : 0,
+			"PALETTESUP" : 0,
+			"PEELOUT" : 0,
+			"RANDOMISER" : 0,
+			"RANDOMISERSOUND" : 0,
+			"REACTIVATE" : 0,
+			"RELEASESOUND" : 0,
+			"RINGRUSH" : 0,
+			"ROSYPOPSOUND" : 0,
+			"RUNSPINWHEEL" : 0,
+			"RUSHBOOSTSPDCAP" : 0,
+			"RUSHELEVATOR" : 0,
+			"SHOE" : 0,
+			"SLIDEDECEL" : 5,
+			"SMHJ" : 0,
+			"SOFTLOCKSPIKE" : 0,
+			"SPARKLES" : 0,
+			"SPARKLES2" : 0,
+			"SPIKEBREAK" : 1,
+			"SPIKEBREAKIDLE" : 0,
+			"SPIKEBREAKRUSH" : 0,
+			"SPIKEBREAKSPIN" : 0,
+			"SPIKEBREAKSTYLE" : 0,
+			"SPIKEBREAKSWING" : 0,
+			"SPIKEBREAKTHROW" : 0,
+			"SPINCD" : 0,
+			"SPINCHARGE" : 0,
+			"SPINRATE" : 0,
+			"SPRITE" : 0,
+			"SUPERBREAK" : 0,
+			"SUPERMAXDASH" : 0,
+			"SWINGSOUND" : 0,
+			"SignPostSprite" : 0,
+			"SlotMachineSprite" : 1,
+			"TITLECARD" : 1,
+			"UNCAPPEDBOUNCE" : 0,
+			"USELESSHAMMER" : 0,
+			"VELCANSOUND" : 0,
+			"WALLBOUNCE" : 0,
+			"WALLBREAK" : 1
+		},
+		"AngelIslandKnucklesBattle" : 
+		{
+			"KnucklesHealth" : 4,
+			"StartingRings" : 10
+		},
+		"BasicOverlay" : 
+		{
+			"NBO_OPACITY" : 1
+		},
+		"Battery Powered Intro" : 
+		{
+			"eggmanflip" : 0,
+			"fbzintro" : 1,
+			"fbzknucklesintro" : 1
+		},
+		"Better CNZ BG" : 
+		{
+			"Tower3d" : 1,
+			"Towercnz" : 1,
+			"fireworkcnz" : 1,
+			"fireworkoverlay" : 1,
+			"spotlightcnz" : 1
+		},
+		"Big Arms No Wall" : 
+		{
+			"bawr_fans" : 0
+		},
+		"Big arms OVA style" : 
+		{
+			"BigArmsColor" : 0
+		},
+		"Blue Diamond Zone" : 
+		{
+			"zdux.DataSelectERZ" : 0
+		},
+		"Blue Glasses Eggman" : 
+		{
+			"BurnEggmanExtendedType" : 2,
+			"CdStyledGoalPlateEggman" : 0,
+			"EggmanBlueHurtAlign" : 0,
+			"EggmanBlueSuperTailsFix" : 0,
+			"EggmanDisableMarkIAnimations" : 0,
+			"EggmanDisableMonitorReplacement" : 0,
+			"EggmanLegacyContinueMode" : 0,
+			"EggmanSpritesType" : 0,
+			"LaughStyleEggmanV2" : 0,
+			"WhenCharacterDiesEggman" : 0,
+			"WhenCharacterIsHurtEggman" : 0,
+			"WhenEventEggman" : 0
+		},
+		"Blue Sphere Time Attack" : 
+		{
+			"SETTING_BS_ACHIEVEMENTS_ENABLE" : 0,
+			"SETTING_BS_ACHIEVEMENT_TOAST_ENABLE" : 1,
+			"SETTING_BS_DEFAULT_CHARACTER" : 1,
+			"SETTING_BS_MENU_BACKGROUND" : 2,
+			"SETTING_BS_MENU_OPTIMIZATION" : 0,
+			"SETTING_BS_NOT_ENOUGH_RINGS" : 1,
+			"SETTING_BS_SHOW_KEYBOARD_KEYS" : 1,
+			"SETTING_BS_STAGE_PREVIEW_ENABLE" : 1,
+			"SETTING_BS_TIME_BONUSES_ON_SPECIALS" : 0,
+			"SETTING_BS_TOAST_DURATION" : 192,
+			"SETTING_BS_TOAST_POSITION" : 0
+		},
+		"Bonus Stages are Optional" : 
+		{
+			"staroff" : 1
+		},
+		"Boss Encounter Effects" : 
+		{
+			"BS.BossEffect" : 0
+		},
+		"Bossbar" : 
+		{
+			"barcol" : 1,
+			"fing" : 20,
+			"robotnik" : 0
+		},
+		"Bottomless Pit Warnings" : 
+		{
+			"PitsAIZ2" : 0,
+			"PitsCPZ1" : 0,
+			"PitsDEZ1" : 0,
+			"PitsDEZ2" : 0,
+			"PitsFBZ1" : 0,
+			"PitsFBZ2" : 0,
+			"PitsICZ2" : 0,
+			"PitsLRZ2" : 0,
+			"PitsLRZBoss1" : 0,
+			"PitsSOZ1" : 0,
+			"PitsSOZ2" : 0,
+			"PitsSSZ" : 0
+		},
+		"BouncyMonitor" : 
+		{
+			"BounceStyle" : 1
+		},
+		"CD-based Death Egg Zone Backgrounds" : 
+		{
+			"mmz1.bg" : 0,
+			"mmz2.bg" : 0,
+			"mmz2.boss" : 0,
+			"mmz2.mobius" : 0
+		},
+		"CO-OP Plus for S3AIR" : 
+		{
+			"CharacterJumpAbilities" : 1,
+			"ControllerHints" : 0,
+			"HUDEffectBar" : 1,
+			"RingLoss" : 0,
+			"SecondPlayerCanGoSuper" : 1,
+			"SecondPlayerTransformBehaviour" : 1,
+			"ThirtyFPSMode" : 0
+		},
+		"COOP HUD" : 
+		{
+			"CoopType" : 0
+		},
+		"CZS + UEZ Base Mod" : 
+		{
+			"customZoneSelect.mode" : 1,
+			"customZoneSelect.useAlternateMusic" : 1
+		},
+		"Carnival Night Zone; Z-DUX" : 
+		{
+			"zdux.DataSelectCNZ" : 0
+		},
+		"Characters Go Super Then Hyper" : 
+		{
+			"DDZFormChooser" : 0,
+			"HKnuxStars" : 1,
+			"HSonicStars" : 1,
+			"HyperCost" : 2,
+			"HyperRingDrain" : 1,
+			"SKnuxStars" : 1,
+			"SSonicStars" : 1,
+			"TransformStyle" : 0
+		},
+		"Checkpoint Special Stages" : 
+		{
+			"Ringamount" : 0
+		},
+		"Co-op-Deluxe (Beta)" : 
+		{
+			"coopcamera" : 1,
+			"coopdoomsdayzone" : 1,
+			"cooplifemonitors" : 1,
+			"coopresultscard" : 1,
+			"coopslotmachine" : 1,
+			"followsonicinlbz2cutscene" : 1,
+			"keepplayerstogether" : 1,
+			"player2getsshields" : 1,
+			"player2goessuper" : 1,
+			"titlebanner" : 1
+		},
+		"Cold Peaks Zone (SHC25)" : 
+		{
+			"coldPeaksZone.bossSprite" : 1,
+			"coldPeaksZone.daytime" : 1,
+			"coldPeaksZone.daytimeK" : 1,
+			"coldPeaksZone.easterEgg" : 1,
+			"coldPeaksZone.forceCPZ" : 1,
+			"coldPeaksZone.levelMusic" : 2,
+			"coldPeaksZone.levelMusicK" : 2,
+			"coldPeaksZone.pickLevelMusic" : 1
+		},
+		"Competition results" : 
+		{
+			"music" : 0
+		},
+		"Composite Genesis Knuckles (The Remake)" : 
+		{
+			"compositeknuxledgepullup" : 0,
+			"compositeknuxvictory" : 0,
+			"compositeknuxwalk" : 0
+		},
+		"Crimson's Carnival Fusion Zone" : 
+		{
+			"CrimsonsCarnivalFusionZone.useCustomMusic" : 1
+		},
+		"Crimson's Nighttime Mushroom Hill DX" : 
+		{
+			"CrimsonsNightMushHillZone.useCustomMusic" : 1
+		},
+		"Crimson's Nighttime Mushroom Hill DX Encore" : 
+		{
+			"CrimsonsNightMushHillZone.useCustomMusic" : 1
+		},
+		"Crimson's Rainy Base Zone" : 
+		{
+			"Lbz_One" : 2,
+			"Lbz_Two" : 2
+		},
+		"Crimson's sunset to night Hydro-city zone encore" : 
+		{
+			"CrimsonsSunNightHydroZone.useCustomMusic" : 0
+		},
+		"Customizable Save Portraits" : 
+		{
+			"spc.fading" : 1,
+			"spc.new_hcz" : 1,
+			"spc.old_dez" : 0,
+			"spc.old_fbz" : 0,
+			"spc.old_lrz" : 0,
+			"spc.pal_line" : 6,
+			"spc.silly" : 1
+		},
+		"DEZ3 - More Visual Effects" : 
+		{
+			"LASIIIR" : 1,
+			"LASIIIR2" : 1,
+			"MY EYES HURT" : 1,
+			"animy" : 1,
+			"annoying" : 1,
+			"annoying 2" : 1,
+			"counting" : 1,
+			"find an easter" : 1,
+			"flashy" : 1,
+			"make your game not boring" : 1,
+			"more action" : 1,
+			"poles" : 1,
+			"war warning" : 1
+		},
+		"Data Select Options" : 
+		{
+			"lsds.alphashadow" : 1,
+			"lsds.amyicon" : 2,
+			"lsds.backtotitle" : 1,
+			"lsds.esureorder" : 1,
+			"lsds.leftshift" : 1,
+			"lsds.levelselect" : 1,
+			"lsds.nodetail" : 1,
+			"lsds.noflicker" : 1,
+			"lsds.noknuxtails" : 2,
+			"lsds.sonic_icons" : 1,
+			"lsds.traded_emeralds" : 0
+		},
+		"Death Egg Debris+" : 
+		{
+			"DeathEggDebris_Style" : 0
+		},
+		"Debug Mode Plus" : 
+		{
+			"DebugModePlusAlwaysShowDebugHUD" : 0,
+			"DebugModePlusDefaultMonitor" : 9,
+			"DebugModePlusEnableCustomHUD" : 1,
+			"DebugModePlusUseAlternateControls" : 0
+		},
+		"Dedicated Peel-Out Button" : 
+		{
+			"OnOff" : 0
+		},
+		"Drop Dash +" : 
+		{
+			"DropDashAnim" : 0,
+			"DropDashBehavior" : 0,
+			"DropDashChargeSFX" : 0,
+			"DropDashDelay" : 0,
+			"DropDashDust" : 0,
+			"DropDashReleaseSFX" : 0,
+			"DropDashSuperShake" : 0
+		},
+		"DrownSFX" : 
+		{
+			"DrownSound" : 0
+		},
+		"ERZ Flight Revisited" : 
+		{
+			"DashButton" : 64,
+			"DashCost" : 5,
+			"DashTimeLimit" : 40,
+			"ESFlight" : 1,
+			"FCancel" : 0,
+			"FallAnim" : 1,
+			"FlashDash" : 1,
+			"FlightForm" : 2,
+			"FlyGlideAnim" : 1,
+			"KnuxFlight" : 1,
+			"SonicFlight" : 1,
+			"TailsFlight" : 1
+		},
+		"ERZ Flight Revisited v1_7" : 
+		{
+			"DashButton" : 112,
+			"DashCost" : 5,
+			"ESFlight" : 1,
+			"FCancel" : 0,
+			"FallAnim" : 0,
+			"FlashDash" : 0,
+			"FlightForm" : 0,
+			"FlyGlideAnim" : 1,
+			"KnuxFlight" : 1,
+			"SonicFlight" : 1,
+			"TailsFlight" : 1
+		},
+		"Easier DDZ as Hyper" : 
+		{
+			"easierDDZasHyper.asteroidSlowdown" : 0,
+			"easierDDZasHyper.noHyperMissileKnockback" : 1
+		},
+		"Effect HUD" : 
+		{
+			"EH.HudPresence" : 0
+		},
+		"EggBar" : 
+		{
+			"position" : 2
+		},
+		"Eggman Revenge" : 
+		{
+			"aiz1_bossenabled1" : 3,
+			"aiz2_bossenabled1" : 4,
+			"cnz1_bossenabled1" : 1,
+			"cnz2_bossenabled1" : 4,
+			"ddz_bossenabled1" : 3,
+			"ddz_bossenabled1_2" : 4,
+			"deathfinalbosssz" : 1,
+			"dez2_bossenabled1" : 3,
+			"dez2bosshsraderDdwr" : 1,
+			"dez2bosshsraderDdwr2" : 3,
+			"dez_bossenabled1_1" : 1,
+			"dez_bossenabled1_2" : 3,
+			"dez_bossenabled1_3" : 3,
+			"fbz1_bossenabled1" : 4,
+			"fbz2_bossenabled1" : 4,
+			"fbz2mid_bossenabled1" : 4,
+			"hcz1_bossenabled1" : 3,
+			"hcz2_bossenabled1" : 3,
+			"hpz1_bossenabled1" : 4,
+			"icz1_bossenabled1" : 3,
+			"icz2_bossenabled1" : 4,
+			"launch these balls" : 1,
+			"lbz1_bossenabled1" : 4,
+			"lbz2_1_bossenabled1" : 4,
+			"lbz2_2_bossenabled1" : 4,
+			"lbz2_3_bossenabled1" : 3,
+			"lrz1_bossenabled1" : 3,
+			"lrz1_subosdhealthpoints" : 4,
+			"lrz1subbosshsraderlrd" : 1,
+			"lrz2_bossenabled1" : 2,
+			"lrz3actbosschange" : 2,
+			"lrz3actbosshpchabges" : 3,
+			"mechasoncii" : 1,
+			"mgz1_bossenabled1" : 4,
+			"mgz2_bossenabled1" : 3,
+			"mgz2knux_bossenabled1" : 4,
+			"mhz1_bossenabled1" : 3,
+			"mhz2_bossenabled1" : 4,
+			"sonicgotweakened" : 0,
+			"soz1_bossenabled1" : 1,
+			"soz2_bossenabled1" : 3,
+			"spikyball thinyg" : 1,
+			"ssz1_bossenabled1" : 3,
+			"ssz2_bossenabled1" : 4,
+			"warning icons are en" : 1
+		},
+		"Eggrobo Monitor and Goal Plate for Knuckles" : 
+		{
+			"EggroboEggmanGoalPlate" : 0,
+			"EggroboEggmanMarkMonitor" : 0,
+			"EggroboEggmanSonicGoalPlates" : 0
+		},
+		"Emeralds HUD" : 
+		{
+			"shimmer" : 170,
+			"sideview" : 0
+		},
+		"Emi's Custom Super Fall Sprites (update)" : 
+		{
+			"Super Display" : 0
+		},
+		"Extem's Sawnic-Inspired Level Countdown" : 
+		{
+			"BlastOffChargeSfxType" : 1,
+			"BlastOffReleaseSfxType" : 1,
+			"CheckpointPlayerMove" : 3,
+			"CountdownPlayerMove" : 3,
+			"CountdownTimeStop" : 1,
+			"DEZ1Override" : 0,
+			"StartupSfxType" : 1
+		},
+		"Extra Save Slots" : 
+		{
+			"Controls" : 0,
+			"LoadScores" : 1,
+			"seamless" : 1,
+			"style" : 0
+		},
+		"Extra Save Slots V2.0" : 
+		{
+			"Controls" : 0,
+			"Hotkeys" : 0,
+			"InputGuide" : 1,
+			"VisTheme" : 0
+		},
+		"Extra Slot Mighty" : 
+		{
+			"'Mighty in' Text" : 0,
+			"Banner Display" : 0,
+			"Banner Text" : 1,
+			"Bounce Height" : 0,
+			"Custom Mappings" : 1,
+			"Elemental Shield Inputs" : 32,
+			"Elemental Shields" : 0,
+			"EnableCustomLevels" : 0,
+			"Expanded Hyper palette" : 0,
+			"Grays" : 0,
+			"Hammer Drop Inputs" : 112,
+			"KnucklesPathAIZ" : 0,
+			"KnucklesPathICZ" : 0,
+			"KnucklesStoryBlocks" : 0,
+			"Mighty Partners" : 0,
+			"MightyPalette" : 4,
+			"MightyPath" : 0,
+			"MightySprites" : 1,
+			"MightyWallJumpStyle" : 0,
+			"Screen Shake" : 0,
+			"Super Palettes" : 0,
+			"Surfboard Intro" : 0,
+			"Tornado Pilot" : 0,
+			"Underwater super/hyper palletes" : 1,
+			"Unique speed shoes" : 0,
+			"Wall Jump Inputs" : 112,
+			"White Flash" : 0,
+			"Zone Banner" : 0
+		},
+		"Extra Slot Ray" : 
+		{
+			"Boost" : 1,
+			"Expanded Hyper palette" : 0,
+			"Partner" : 0,
+			"Ray Banner Display" : 0,
+			"Ray Banner Text" : 1,
+			"Ray Display" : 1,
+			"Ray HUD Type" : 0,
+			"Ray Pilot" : 0,
+			"Ray Shield Inputs" : 16,
+			"Ray Unique speed shoes" : 0,
+			"Ray Zone Banner" : 0,
+			"Ray's Grays" : 0,
+			"Ray's Palette" : 0,
+			"RaySprites" : 1,
+			"RedOctobers" : 1,
+			"SmoothRotation" : 1,
+			"Super Palettes" : 0,
+			"The Elementals" : 0,
+			"Underwater super/hyper palletes" : 1,
+			"White Flash" : 0
+		},
+		"ExtraSaveSlotsV2.0" : 
+		{
+			"Controls" : 0,
+			"Hotkeys" : 0,
+			"InputGuide" : 1,
+			"VisTheme" : 0
+		},
+		"FBZ GF" : 
+		{
+			"weather man" : 1
+		},
+		"FBZ in MHZ2 Main Boss" : 
+		{
+			"fbz.in.mhz2.main.boss.constant_sfx" : 1,
+			"fbz.in.mhz2.main.boss.shake_screen" : 1,
+			"fbz.in.mhz2.main.boss.sprite_type" : 0
+		},
+		"Falling-Sprites-For-All-main" : 
+		{
+			"Ditto is a failed Mew" : 1,
+			"Falling for you" : 1,
+			"From AIZ to that one zone" : 0,
+			"Sonic Fall" : 0,
+			"Super/Hyper Sonic Fall" : 0,
+			"Uncurl" : 0
+		},
+		"Faster Sonic" : 
+		{
+			"faster" : 0
+		},
+		"Footsteps SFX" : 
+		{
+			"steps.obj" : 0,
+			"steps.sfx" : 0,
+			"steps.tails" : 2,
+			"steps.water" : 0
+		},
+		"GaloreBits-SavePatcher" : 
+		{
+			"CHARACTERSLOT" : 5,
+			"PATCHERENABLED" : 0,
+			"SAVEPAGE" : 0,
+			"SAVESLOT" : 0,
+			"SAVESTATE" : 0,
+			"SLOTCONTS" : 99,
+			"SLOTLIVES" : 99
+		},
+		"Glentopher Cowboy Knuckles Chao" : 
+		{
+			"GLENTOPHER_LIL_GUY_SETTINGS_AGGRESSION" : 1,
+			"GLENTOPHER_LIL_GUY_SETTINGS_RAOK" : 1
+		},
+		"Glentopher More Chao Companions" : 
+		{
+			"GLENTOPHER_MORE_CHAO_CHARACTER" : 0
+		},
+		"Glentopher Turbo Spindash" : 
+		{
+			"DASHGAUGECHARGEENABLED" : 1,
+			"TURBODASHCHARGERATE" : 4
+		},
+		"Gumball Machine" : 
+		{
+			"gmz_easter_egg" : 1,
+			"gmz_title_name" : 1
+		},
+		"Harder Bosses by DrFattyLobotonic" : 
+		{
+			"AIZ1FireBreathDifficulty" : 0,
+			"AIZ2FlameMobileDifficulty" : 0,
+			"CNZ1SelfDStructMachineDifficulty" : 1,
+			"CNZ2GravitonMobileDifficulty" : 1,
+			"DDZFinalWeaponDifficulty" : 1,
+			"DEZ1RedEyeDifficulty" : 0,
+			"DEZ2DeathBallDifficulty" : 1,
+			"DEZ2GreatRoboDifficulty" : 1,
+			"FBZ1GapsuleDifficulty" : 0,
+			"FBZ2BarrierDifficulty" : 0,
+			"FBZ2HangMobileDifficulty" : 1,
+			"HCZ1BigShakerDifficulty" : 1,
+			"HCZ2ScrewMobileDifficulty" : 1,
+			"HPZKnucklesDifficulty" : 1,
+			"ICZ1BigIcedusDifficulty" : 0,
+			"ICZ2FreezerMobileDifficulty" : 0,
+			"LBZ1TwinHammerDifficulty" : 1,
+			"LBZ2BallShooterDifficulty" : 0,
+			"LBZ2BeamRocketDifficulty" : 1,
+			"LBZ2BigArmDifficulty" : 1,
+			"LRZ1HeatArmsDifficulty" : 0,
+			"LRZ2HotMobileDifficulty" : 1,
+			"MGZ1TunnelbotDifficulty" : 1,
+			"MGZ2DrillMobileKnuckles" : 0,
+			"MGZ2DrillMobileSonicTails" : 1,
+			"MHZ1HeiHouDifficulty" : 1,
+			"MHZ2JetMobileDifficulty" : 0,
+			"SOZ1GuardianDifficulty" : 1,
+			"SOZ2EggGolemDifficulty" : 0,
+			"SSZEggMobileHDifficulty" : 0,
+			"SSZFlyingMobileDifficulty" : 0,
+			"SSZMechaDifficulty" : 1,
+			"SSZSuperMechaDifficulty" : 0
+		},
+		"Harder Doomsday Boss" : 
+		{
+			"Hard mode plus" : 1
+		},
+		"Hyper Knuckles Dash" : 
+		{
+			"CameraDelay" : 1,
+			"DashButton" : 0,
+			"KillEnemies" : 1,
+			"ResetVelocity" : 0,
+			"ScreenFlash" : 1,
+			"SoundEffect" : 1
+		},
+		"Improved Super Tails and Knuckles" : 
+		{
+			"fstk.Spd" : 1,
+			"fstk.knuxJump" : 2,
+			"fstk.partnerTailsSpeed" : 1,
+			"fstk.tailsJump" : 1,
+			"fstk.tailsWall" : 1
+		},
+		"Intros" : 
+		{
+			"hypersonic" : 1,
+			"knuckleslocation" : 0,
+			"tailsintro" : 1
+		},
+		"LBZ Eggman Fleeing" : 
+		{
+			"CarrierGoal" : 1,
+			"EggGoal" : 1
+		},
+		"LBZ2 Platform Falls in MHZ1" : 
+		{
+			"lbz2.platform.falls.in.mhz1.easter.egg" : 0
+		},
+		"Lapislink's giant ring" : 
+		{
+			"GENERAL" : 0
+		},
+		"Launch Base Zone; Z-DUX" : 
+		{
+			"enable.Construction" : 0,
+			"zdux.DataSelectLBZ" : 0
+		},
+		"Lava Reef Zone Redesigned V2_3" : 
+		{
+			"Act 1 Palette" : 2,
+			"Act 2 Palette" : 1,
+			"Heat Haze" : 1
+		},
+		"Lower Gravity in Death Egg Zone" : 
+		{
+			"lgdz.bonus" : 0,
+			"lgdz.dez1" : 1,
+			"lgdz.dez2" : 0,
+			"lgdz.fbGravity" : 0,
+			"lgdz.gravityMod" : 3,
+			"lgdz.speed" : 1
+		},
+		"LumaShade" : 
+		{
+			"LumaShade.OptAurora" : 1,
+			"LumaShade.OptBHDepth" : 0,
+			"LumaShade.OptBHSize" : 0,
+			"LumaShade.OptBgCustom" : 1,
+			"LumaShade.OptBgEffect" : 0,
+			"LumaShade.OptBgStrength" : 2,
+			"LumaShade.OptBloom" : 0,
+			"LumaShade.OptBloomPulse" : 0,
+			"LumaShade.OptBrightness" : 5,
+			"LumaShade.OptCaveDark" : 1,
+			"LumaShade.OptCharShade" : 0,
+			"LumaShade.OptContrast" : 5,
+			"LumaShade.OptDiscCycle" : 1,
+			"LumaShade.OptDiscFlash" : 6,
+			"LumaShade.OptGlowPulse" : 1,
+			"LumaShade.OptGlowSize" : 1,
+			"LumaShade.OptGlowStrength" : 5,
+			"LumaShade.OptGrain" : 0,
+			"LumaShade.OptGrainSpeed" : 1,
+			"LumaShade.OptHaze" : 0,
+			"LumaShade.OptHazeColour" : 0,
+			"LumaShade.OptHeatWaves" : 1,
+			"LumaShade.OptHotGlow" : 0,
+			"LumaShade.OptHotPulse" : 1,
+			"LumaShade.OptLevelShade" : 1,
+			"LumaShade.OptLevelStrength" : 7,
+			"LumaShade.OptLightDir" : 0,
+			"LumaShade.OptLightFollow" : 4,
+			"LumaShade.OptLvlAIZ" : 0,
+			"LumaShade.OptLvlCNZ" : 2,
+			"LumaShade.OptLvlDDZ" : 2,
+			"LumaShade.OptLvlDEZ" : 2,
+			"LumaShade.OptLvlFBZ" : 2,
+			"LumaShade.OptLvlHCZ" : 1,
+			"LumaShade.OptLvlICZ" : 1,
+			"LumaShade.OptLvlLBZ" : 0,
+			"LumaShade.OptLvlLRZ" : 1,
+			"LumaShade.OptLvlMGZ" : 2,
+			"LumaShade.OptLvlMHZ" : 2,
+			"LumaShade.OptLvlSOZ" : 0,
+			"LumaShade.OptLvlSSZ" : 0,
+			"LumaShade.OptMaster" : 1,
+			"LumaShade.OptModActors" : 1,
+			"LumaShade.OptModPalette" : 1,
+			"LumaShade.OptModScreen" : 1,
+			"LumaShade.OptModSpace" : 1,
+			"LumaShade.OptModWarp" : 1,
+			"LumaShade.OptModWorld" : 1,
+			"LumaShade.OptMonitorGlow" : 1,
+			"LumaShade.OptMoonPhase" : 1,
+			"LumaShade.OptObjGlow" : 4,
+			"LumaShade.OptObjPulse" : 0,
+			"LumaShade.OptObjRelight" : 0,
+			"LumaShade.OptParticleCount" : 5,
+			"LumaShade.OptParticles" : 1,
+			"LumaShade.OptPlayerShade" : 1,
+			"LumaShade.OptPosterize" : 0,
+			"LumaShade.OptPreset" : 3,
+			"LumaShade.OptRingGlow" : 1,
+			"LumaShade.OptSSZCDBG" : 1,
+			"LumaShade.OptSSZPreserve" : 0,
+			"LumaShade.OptSaturation" : 5,
+			"LumaShade.OptScanlines" : 0,
+			"LumaShade.OptShieldGlow" : 1,
+			"LumaShade.OptSkyBloom" : 4,
+			"LumaShade.OptSkyCycle" : 1,
+			"LumaShade.OptSkyDarken" : 7,
+			"LumaShade.OptSkyDepth" : 1,
+			"LumaShade.OptSkyDetail" : 1,
+			"LumaShade.OptSkyFlow" : 1,
+			"LumaShade.OptSkyFx" : 1,
+			"LumaShade.OptSkyLight" : 1,
+			"LumaShade.OptSkyTime" : 7,
+			"LumaShade.OptSmartZone" : 1,
+			"LumaShade.OptSpaceFx" : 1,
+			"LumaShade.OptSpaceMotion" : 5,
+			"LumaShade.OptSpaceSky" : 1,
+			"LumaShade.OptSpaceWarp" : 5,
+			"LumaShade.OptSpecialGlow" : 1,
+			"LumaShade.OptSpriteRim" : 5,
+			"LumaShade.OptSpriteShade" : 1,
+			"LumaShade.OptSpriteShadowLen" : 3,
+			"LumaShade.OptSpriteSheen" : 5,
+			"LumaShade.OptSpriteStrength" : 5,
+			"LumaShade.OptStarBright" : 9,
+			"LumaShade.OptStarTwinkle" : 1,
+			"LumaShade.OptSunPower" : 7,
+			"LumaShade.OptSunRays" : 5,
+			"LumaShade.OptSuperGlow" : 1,
+			"LumaShade.OptTimeOfDay" : 0,
+			"LumaShade.OptTintBlue" : 10,
+			"LumaShade.OptTintGreen" : 10,
+			"LumaShade.OptTintMode" : 3,
+			"LumaShade.OptTintRed" : 10,
+			"LumaShade.OptTintStrength" : 3,
+			"LumaShade.OptTodSpeed" : 0,
+			"LumaShade.OptVignette" : 3,
+			"LumaShade.OptWaterDepth" : 5,
+			"LumaShade.OptWaterDistort" : 5,
+			"LumaShade.OptWaterRays" : 3,
+			"LumaShade.OptWaterStrength" : 4,
+			"LumaShade.OptWaterTint" : 1,
+			"LumaShade.OptZoneAmbient" : 1,
+			"LumaShade.OptZoneFx" : 10
+		},
+		"M_Eggmobile_in_S1_and_S2_EMobile" : 
+		{
+			"Boss" : 0,
+			"Mania Warning Lights" : 0,
+			"S1BossBossBarName" : 1,
+			"S2BossBallonFlash" : 0,
+			"S2BossBalloonDecoys" : 3,
+			"S2BossBossBarName" : 1,
+			"Wrecking ball physics" : 1
+		},
+		"Main Mod" : 
+		{
+			"CDIcons" : 0,
+			"Continues Hud" : 0,
+			"HudController" : 0,
+			"HudOption" : 0,
+			"InfiniteHud" : 0,
+			"KnNTaPal" : 0,
+			"KnuckHud" : 0,
+			"SoNTaPal" : 0,
+			"SonicHud" : 0,
+			"SupPalStyle" : 0,
+			"TailsHud" : 0,
+			"TailsPal" : 0,
+			"TitleCard" : 0,
+			"sepursenicspretes" : 0
+		},
+		"MainMenuLogoChanger" : 
+		{
+			"MenuLogo" : 0
+		},
+		"Mania Eggman Laugh Fix" : 
+		{
+			"BurnEggmanExtendedType" : 2,
+			"CdStyledGoalPlateEggman" : 0,
+			"EggmanLegacyContinueMode" : 0,
+			"EggmanSpritesType" : 0,
+			"WhenCharacterDiesEggman" : 0,
+			"WhenCharacterIsHurtEggman" : 0
+		},
+		"Mania FBZ Backgrounds" : 
+		{
+			"MANIAFBZBGS_BMP" : 0,
+			"MANIAFBZBGS_BMPFG" : 0,
+			"MANIAFBZBGS_RESOLUTION" : 1
+		},
+		"Mania HCZ Backgrounds" : 
+		{
+			"ManiaHCZBackgrounds.BackgroundMode" : 0
+		},
+		"Mania Lite Objects" : 
+		{
+			"paletteStyle" : 3,
+			"spriteStyle" : 2
+		},
+		"Mania Style Data Select" : 
+		{
+			"ActionButtonType" : 1,
+			"AnimatedBackground" : 0,
+			"MushroomHillOrValley" : 0,
+			"SelectedBackground" : 0,
+			"SelectedBanner" : 1,
+			"UseOriginalZoneOrder" : 0
+		},
+		"Mania Style S3&K Special Stage Results" : 
+		{
+			"AnimatedSSRBackground" : 0
+		},
+		"Mania Style Special Stage Results" : 
+		{
+			"AnimatedSSRBackground" : 0
+		},
+		"Mania Style Special Stage Results Fixed" : 
+		{
+			"AnimatedSSRBackground" : 0
+		},
+		"Mania Style Title Screen" : 
+		{
+			"SETTING_AFTER_TITLE_SCREEN" : 0,
+			"SETTING_BOTTOM_TEXT" : 0,
+			"SETTING_DEV_SPLASH" : 0,
+			"SETTING_LOGO_BRAND" : 0,
+			"SETTING_MOBILE_CONTROL" : 0,
+			"SETTING_ORIGINAL_GAME_BY" : 0,
+			"SETTING_POWER_LED" : 0,
+			"SETTING_SKIPPING_SPLASHES" : 0
+		},
+		"Mania Tails Tornado Animation v1" : 
+		{
+			"SonicTornadoStyle" : 0
+		},
+		"Mania Tornado Animation V1_1" : 
+		{
+			"SonicTornadoStyle" : 0
+		},
+		"Maniafied FBZ" : 
+		{
+			"no more man" : 0,
+			"weather man" : 3
+		},
+		"Maniafied FBZ S3C" : 
+		{
+			"weather man" : 0
+		},
+		"Marble Garden - Z-DUX" : 
+		{
+			"zdux.DataSelectERZ" : 0
+		},
+		"Mecha Sonic MK. III Boss" : 
+		{
+			"healthofthemechasonk" : 32
+		},
+		"Mephiles' Hunt" : 
+		{
+			"Mephiles.Laughs" : 1,
+			"Mephiles.WithKnux" : 1
+		},
+		"Metal Amy Boss" : 
+		{
+			"Metal Amy's HP" : 16,
+			"Metal Amy's Theme" : 1
+		},
+		"Mighty" : 
+		{
+			"audio" : 0,
+			"palette" : 0,
+			"walljump" : 1,
+			"walljumpcontrol" : 1
+		},
+		"Moar Transparency" : 
+		{
+			"mt.aiz1_background" : 0,
+			"mt.aiz1_tiles" : 1,
+			"mt.aiz2_tiles" : 1,
+			"mt.amyheart" : 1,
+			"mt.amytrail" : 1,
+			"mt.beamstyle1" : 1,
+			"mt.beamstyle2" : 0,
+			"mt.bmpline" : 5,
+			"mt.bubbles" : 1,
+			"mt.bubbleshield" : 1,
+			"mt.bugernaught" : 1,
+			"mt.classicshield" : 1,
+			"mt.clouds" : 1,
+			"mt.cnzpalette" : 1,
+			"mt.dark_sand" : 1,
+			"mt.ddzsmoke" : 3,
+			"mt.dez1laser" : 1,
+			"mt.dez2fire" : 3,
+			"mt.dez2laser" : 1,
+			"mt.dragonfly" : 1,
+			"mt.dust" : 3,
+			"mt.electricity" : 1,
+			"mt.energyballs" : 1,
+			"mt.esustars" : 1,
+			"mt.fbzlaser" : 1,
+			"mt.fireshield" : 1,
+			"mt.flameplumes" : 3,
+			"mt.flames" : 1,
+			"mt.ghosts" : 1,
+			"mt.hcz1_tiles" : 1,
+			"mt.hcz2_tiles" : 1,
+			"mt.hcz_intro_water" : 2,
+			"mt.hpzpalette" : 0,
+			"mt.icz2boss" : 3,
+			"mt.instashield" : 1,
+			"mt.lasers" : 1,
+			"mt.lbz1_tiles" : 1,
+			"mt.lbz2_tiles" : 1,
+			"mt.lightningshield" : 1,
+			"mt.lighttunnel" : 1,
+			"mt.lrz2boss" : 1,
+			"mt.lrz2boss_smoke" : 3,
+			"mt.palettesource" : 1,
+			"mt.snowfall" : 1,
+			"mt.sszs2laser" : 1,
+			"mt.stars" : 1,
+			"mt.supermecha" : 1,
+			"mt.telebeam" : 1,
+			"mt.teleframe" : 0,
+			"mt.toxomister" : 1,
+			"mt.watersurface" : 1
+		},
+		"Modern Springs" : 
+		{
+			"paletteStyle" : 0,
+			"spriteStyle" : 0
+		},
+		"Monitors Plus" : 
+		{
+			" " : 0,
+			"1UPStyle" : 3,
+			"BlueMonitorProb" : 50,
+			"BlueMonitorSwap" : 15,
+			"EggSFX" : 1,
+			"EggmanMonitorProb" : 10,
+			"EggmanMonitorSwap" : 2,
+			"FireIce" : 1,
+			"FlameMonitorProb" : 10,
+			"FlameMonitorSwap" : 5,
+			"IceIndicator" : 0,
+			"InvincMonitorProb" : 10,
+			"InvincMonitorSwap" : 13,
+			"InvincibilitySilent" : 1,
+			"LifeMonitorProb" : 10,
+			"LifeMonitorSwap" : 15,
+			"LifeOffReplace" : 3,
+			"LightningMonitorProb" : 10,
+			"LightningMonitorSwap" : 6,
+			"MultiRingValue" : 10,
+			"RandomMonitor" : 1,
+			"RandomMonitorBlue" : 0,
+			"RandomMonitorEgg" : 2,
+			"RandomMonitorFast" : 0,
+			"RandomMonitorFire" : 9,
+			"RandomMonitorGoggles" : 0,
+			"RandomMonitorGold" : 0,
+			"RandomMonitorHyperRing" : 0,
+			"RandomMonitorIce" : 0,
+			"RandomMonitorInvinc" : 9,
+			"RandomMonitorLife" : 10,
+			"RandomMonitorLightning" : 10,
+			"RandomMonitorMultiRing" : 0,
+			"RandomMonitorRandomRing" : 0,
+			"RandomMonitorRing" : 40,
+			"RandomMonitorS" : 0,
+			"RandomMonitorSlow" : 0,
+			"RandomMonitorSlowDown" : 0,
+			"RandomMonitorSpeed" : 8,
+			"RandomMonitorSpike" : 0,
+			"RandomMonitorType" : 0,
+			"RandomMonitorWater" : 8,
+			"RandomMonitorWind" : 0,
+			"RandomShield" : 1,
+			"RandomShieldBlue" : 0,
+			"RandomShieldFire" : 9,
+			"RandomShieldGold" : 0,
+			"RandomShieldIce" : 0,
+			"RandomShieldLightning" : 10,
+			"RandomShieldSpike" : 0,
+			"RandomShieldWater" : 8,
+			"RandomShieldWind" : 0,
+			"RingMonitorProb" : 10,
+			"RingMonitorSwap" : 14,
+			"RouletteMonitorFast" : 1,
+			"RouletteMonitorSlow" : 5,
+			"SMonitorBehavior" : 1,
+			"ShieldAbilityOn" : 0,
+			"SpeedMonitorProb" : 10,
+			"SpeedMonitorSwap" : 4,
+			"SpeedSilent" : 0,
+			"SpikeSFX" : 1,
+			"WaterMonitorProb" : 10,
+			"WaterMonitorSwap" : 7,
+			"WaterWind" : 1
+		},
+		"Monitors Plus - Small Modifications" : 
+		{
+			" " : 0,
+			"1UPStyle" : 3,
+			"BlueMonitorProb" : 50,
+			"BlueMonitorSwap" : 15,
+			"EggSFX" : 1,
+			"EggmanMonitorProb" : 10,
+			"EggmanMonitorSwap" : 2,
+			"FireIce" : 1,
+			"FlameMonitorProb" : 10,
+			"FlameMonitorSwap" : 5,
+			"IceIndicator" : 0,
+			"InvincMonitorProb" : 10,
+			"InvincMonitorSwap" : 13,
+			"InvincibilitySilent" : 1,
+			"LifeMonitorProb" : 10,
+			"LifeMonitorSwap" : 15,
+			"LifeOffReplace" : 3,
+			"LightningMonitorProb" : 10,
+			"LightningMonitorSwap" : 6,
+			"MultiRingValue" : 10,
+			"RandomMonitor" : 1,
+			"RandomMonitorBlue" : 0,
+			"RandomMonitorEgg" : 2,
+			"RandomMonitorFast" : 0,
+			"RandomMonitorFire" : 9,
+			"RandomMonitorGoggles" : 0,
+			"RandomMonitorGold" : 0,
+			"RandomMonitorHyperRing" : 0,
+			"RandomMonitorIce" : 0,
+			"RandomMonitorInvinc" : 9,
+			"RandomMonitorLife" : 10,
+			"RandomMonitorLightning" : 10,
+			"RandomMonitorMultiRing" : 0,
+			"RandomMonitorRandomRing" : 0,
+			"RandomMonitorRing" : 40,
+			"RandomMonitorS" : 0,
+			"RandomMonitorSlow" : 0,
+			"RandomMonitorSlowDown" : 0,
+			"RandomMonitorSpeed" : 8,
+			"RandomMonitorSpike" : 0,
+			"RandomMonitorType" : 0,
+			"RandomMonitorWater" : 8,
+			"RandomMonitorWind" : 0,
+			"RandomShield" : 1,
+			"RandomShieldBlue" : 0,
+			"RandomShieldFire" : 9,
+			"RandomShieldGold" : 0,
+			"RandomShieldIce" : 0,
+			"RandomShieldLightning" : 10,
+			"RandomShieldSpike" : 0,
+			"RandomShieldWater" : 8,
+			"RandomShieldWind" : 0,
+			"RingMonitorProb" : 10,
+			"RingMonitorSwap" : 14,
+			"RouletteMonitorFast" : 1,
+			"RouletteMonitorSlow" : 5,
+			"SMonitorBehavior" : 1,
+			"ShieldAbilityOn" : 0,
+			"SpeedMonitorProb" : 10,
+			"SpeedMonitorSwap" : 4,
+			"SpeedSilent" : 0,
+			"SpikeSFX" : 1,
+			"WaterMonitorProb" : 10,
+			"WaterMonitorSwap" : 7,
+			"WaterWind" : 1
+		},
+		"MoodyDepths" : 
+		{
+			"water.AIZ1on" : 1,
+			"water.AIZ2on" : 1,
+			"water.CNZ2on" : 1,
+			"water.HCZ1on" : 1,
+			"water.HCZ2on" : 1,
+			"water.ICZ2on" : 1,
+			"water.LBZ2on" : 1,
+			"water.choppiness" : 1,
+			"water.playershift" : 1,
+			"water.startDepth" : 96,
+			"water.totalDepth" : 3
+		},
+		"MoodySands" : 
+		{
+			"objshift" : 1,
+			"playershift" : 1,
+			"usepal" : 0
+		},
+		"More Animal Friends" : 
+		{
+			"MoreFriendsCDMode" : 0,
+			"MoreFriendsGreyPallete" : 0,
+			"MoreFriendsPickySprite" : 1,
+			"MoreFriendsRFlickyProbability" : 0,
+			"MoreFriendsRFlickyType" : 0
+		},
+		"More Dramatic Mini-Bosses' Death" : 
+		{
+			"AAA MY EYES" : 1,
+			"W-h-y  t-h-i-s  i-s  s-o  s-l-o-w-e-d" : 1,
+			"at least there's a timer" : 0,
+			"give me that robot's parts" : 1,
+			"skrin shiak" : 1
+		},
+		"Mushroom Hill Zone; Z-DUX" : 
+		{
+			"zdux.DataSelectMHZ" : 0
+		},
+		"Mushroom_Hill_Past3" : 
+		{
+			"CrimsonsNightMushHillZone.useCustomMusic" : 1
+		},
+		"Music Cues Customization" : 
+		{
+			"MCC_AIZ1Fire_music_int" : 0,
+			"MCC_AIZ1Knux_music_int" : 3,
+			"MCC_BlueSphereResults_music_int" : 2,
+			"MCC_CNZ2Dark_music_int" : 2,
+			"MCC_CompResults_music_int" : 0,
+			"MCC_Continue_music_int" : 0,
+			"MCC_FBZLaserTrap_music_int" : 1,
+			"MCC_HCZ1boss_music_int" : 0,
+			"MCC_HPZShrine_music_int" : 0,
+			"MCC_HPZ_music_int" : 0,
+			"MCC_KnucklesCredits_music_int" : 4,
+			"MCC_KnucklesHPZ_ContinueBossMusic_int" : 0,
+			"MCC_KnucklesOutro_music_int" : 3,
+			"MCC_LBZ2cutscene_music_int" : 1,
+			"MCC_LBZ2cutscene_postmusic_int" : 1,
+			"MCC_LRZ2boss_music_int" : 0,
+			"MCC_MGZ2Knux_music_int" : 0,
+			"MCC_NoWay_music_int" : 0,
+			"MCC_ResumeAct2_music_int" : 2,
+			"MCC_SOZ1boss_music_int" : 1,
+			"MCC_SSZThrowback_BossMusic_int" : 0,
+			"MCC_SonicCredits_music_int" : 4,
+			"MCC_SonicOutro_music_int" : 3
+		},
+		"Mystic Cave Zone Remake" : 
+		{
+			"accessmcz" : 0,
+			"act1bossdeadflash" : 0,
+			"act1bosshealth" : 1,
+			"act1bossknux" : 0,
+			"act1bossknuxhard" : 0,
+			"act1bosstheme" : 0,
+			"act1mczt" : 0,
+			"act2bossdefeat" : 0,
+			"act2bosshealth" : 3,
+			"act2bossknuxhard" : 0,
+			"act2bossmovement" : 0,
+			"act2bosssprites" : 0,
+			"act2bosstheme" : 0,
+			"act2kmczt" : 2,
+			"act2mczt" : 1,
+			"lrzmczwall" : 0,
+			"mcz1cbg" : 0,
+			"mcz1dl" : 0,
+			"mcz1eqtheme" : 4,
+			"mcz1fct2" : 0,
+			"mcz1hyudorosSKIN" : 0,
+			"mcz1lctheme" : 3,
+			"mcz2cbg" : 1,
+			"mcz2cry" : 0,
+			"mcz2cry2" : 0,
+			"mcz2crybg" : 0,
+			"mcz2cryk" : 0,
+			"mcz2crym" : 0,
+			"mcz2cutskip" : 0,
+			"mcz2dark" : 0,
+			"mcz2dl" : 0,
+			"mcz2eqtheme" : 4,
+			"mcz2kdark" : 1,
+			"mcz2lctheme" : 4,
+			"mcz2pit" : 0,
+			"mcz2remakestart" : 0,
+			"mczachactive" : 0,
+			"mczachbg" : 0,
+			"mczachmenumusic" : 0,
+			"mczanimalfly" : 0,
+			"mczantibe" : 1,
+			"mczantiss" : 1,
+			"mczbackscroll" : 0,
+			"mczbadmove" : 0,
+			"mczbadsp" : 0,
+			"mczbexle" : 0,
+			"mczbspikestyle" : 0,
+			"mczcapstyle" : 1,
+			"mczclueoption" : 0,
+			"mczcp" : 0,
+			"mczcpsshake" : 0,
+			"mczcrawlbodyd" : 0,
+			"mczcrawlhurt" : 0,
+			"mczcss" : 0,
+			"mczcutscenes" : 0,
+			"mczdangertarget" : 0,
+			"mczdark" : 1,
+			"mczdeco" : 0,
+			"mczdsi" : 0,
+			"mczfbr" : 0,
+			"mczffbt" : 0,
+			"mczflashers2a" : 0,
+			"mczfsle" : 0,
+			"mczgetachsfx" : 0,
+			"mczgreffect" : 0,
+			"mczhyudle" : 0,
+			"mczhyudle2" : 0,
+			"mczhyufast" : 0,
+			"mczhyusfx" : 1,
+			"mczlavacycle" : 1,
+			"mczlavalebright" : 0,
+			"mczlcsplash" : 0,
+			"mczle" : 0,
+			"mczlogoonmainmenu" : 0,
+			"mczmcdusto" : 0,
+			"mczmmsp" : 0,
+			"mczmode" : 0,
+			"mczobg" : 1,
+			"mczobsfx" : 0,
+			"mczonmainmenu" : 0,
+			"mczoutle" : 0,
+			"mczoutt" : 2,
+			"mczoutt2" : 2,
+			"mczpal" : 0,
+			"mczringfix" : 0,
+			"mczs3bg" : 1,
+			"mczs3limit" : 1,
+			"mczsbs" : 0,
+			"mczsbs2" : 1,
+			"mczshnco" : 0,
+			"mczsrstyle" : 1,
+			"mczsspinstyle" : 0,
+			"mczsuperle" : 0,
+			"mczswmc" : 0,
+			"mcztb" : 1,
+			"mczti" : 0,
+			"mcztrams2" : 0,
+			"mcztriggervine" : 0,
+			"mczvinejump" : 1,
+			"mczwallbd" : 0,
+			"tomczresult" : 0,
+			"tomczresultname" : 0
+		},
+		"Neo Boss Warnings" : 
+		{
+			"bossWarningMod.letterboxing," : 0,
+			"bossWarningMod.warningType" : 0
+		},
+		"New Rings Monitor Effect" : 
+		{
+			"Attraction Type" : 0,
+			"Default Attraction Speed" : 0
+		},
+		"New Water Surfaces" : 
+		{
+			"water.Aiz1" : 0,
+			"water.Aiz2" : 0,
+			"water.Cnz2" : 0,
+			"water.Hcz1" : 1,
+			"water.Hcz2" : 1,
+			"water.Icz2" : 0,
+			"water.Lbz2" : 0,
+			"water.transparency" : 0
+		},
+		"No Act 1 Results" : 
+		{
+			"CAPSULESMAYBE" : 1,
+			"RESULTSYOUWANTED" : 0
+		},
+		"OVA Eggman" : 
+		{
+			"Bunny" : 0,
+			"CreditsTheme" : 0,
+			"DDZTheme" : 0,
+			"DEZAct2Theme" : 0,
+			"EggmanDamaged" : 0,
+			"EggmanWantsToGetMarried" : 0,
+			"ICZ2Theme" : 0,
+			"MetalApparitions" : 0,
+			"MiniBoss" : 0,
+			"R.O.B.O.T.N.I.K." : 0,
+			"SSZTheme" : 0,
+			"endsprite" : 0
+		},
+		"One-Step-Ahead-Of-Yourself-main" : 
+		{
+			"KnuxMirrorFight" : 0,
+			"MHighCont" : 0,
+			"MShowSP" : 1,
+			"MirrorMusic" : 0,
+			"MirrorMusicStop" : 0,
+			"MirrorRingPhysics" : 1,
+			"MirrorShield" : 1
+		},
+		"Origins AIZ Intros" : 
+		{
+			"hypersonic" : 1,
+			"knuckleslocation" : 0,
+			"tailsintro" : 1
+		},
+		"Origins Hyper Effects" : 
+		{
+			"HOriginsDropDashSparks" : 0,
+			"HOriginsFlashStyle" : 1,
+			"HOriginsHyperDashSparks" : 0,
+			"HOriginsManiaSuperDashSound" : 0
+		},
+		"Origins Level Select - Lite" : 
+		{
+			"back to title" : 1
+		},
+		"Origins-Parity-Galore-main" : 
+		{
+			"AIZ Back Attack" : 1,
+			"Believe In Myself" : 1,
+			"Benson" : 1,
+			"Chuckles the Red boulder puncher" : 1,
+			"Eggheads" : 1,
+			"I Sleep" : 1,
+			"Infinitely Punching Echidna" : 1,
+			"O Canada" : 1,
+			"Smooth and spiky" : 1,
+			"Something Whitty" : 1
+		},
+		"Origins-SSZ-Cutscene-main" : 
+		{
+			"Eggmen" : 0,
+			"Scroll" : 0
+		},
+		"OriginsResolution-main" : 
+		{
+			"BlueSphereSafe" : 1,
+			"HUDPosition" : 1,
+			"Preset" : 5,
+			"ScreenHeight" : 240,
+			"ScreenWidth" : 416
+		},
+		"PinkBurnerStandalone" : 
+		{
+			"PBBossTheme" : 1,
+			"PBCannonMaxHP" : 0,
+			"PBDeathFlash" : 0,
+			"PBHeadMaxHP" : 1,
+			"PBWarningGraphics" : 0
+		},
+		"Plush's Ariff Tails" : 
+		{
+			"Super form" : 1,
+			"fox flight buffs" : 1,
+			"fox snowboards" : 1,
+			"pal" : 1
+		},
+		"Random_Red_Star_Rings_S3AIR" : 
+		{
+			"Red Star Ring UI" : 0
+		},
+		"Ray" : 
+		{
+			"audio" : 0,
+			"headbutt" : 1,
+			"palette" : 1
+		},
+		"Retry Blue Spheres" : 
+		{
+			"DisableSuperEmeralds" : 0,
+			"RetryBlueSpheres" : 1,
+			"SpecialStageFromCheckpoint" : 1
+		},
+		"Rey's Mo' Super Transforms, Yo" : 
+		{
+			"Afterimages" : 0,
+			"Anims" : 0,
+			"DETRANS" : 0,
+			"EmeraldJingle" : 1,
+			"EmeraldStyle" : 0,
+			"EmeraldStyle2" : 0,
+			"ForceSparks" : 1,
+			"HyperFade" : 1,
+			"HyperImpact" : 1,
+			"HyperSFX" : 2,
+			"MIRACLE" : 2,
+			"MIRACLEFLASH" : 2,
+			"MIRACLEON" : 1,
+			"OrbitStyle" : 0,
+			"OrbitStyle2" : 0,
+			"RingHyper" : 1,
+			"RingSuper" : 1,
+			"SuperThenHyper" : 1,
+			"TrailType" : 0
+		},
+		"Richy's Unique Death Egg Zone Act 1 Intro - (VER.1.1)" : 
+		{
+			"DoorScreenShake" : 1,
+			"IntroductionStyle" : 0
+		},
+		"Richy's Unique Hydrocity Zone Act 1 Intro - (VER.1.2)" : 
+		{
+			"IntroductionStyle" : 0,
+			"ObjectFallingGravity" : 0
+		},
+		"Rings +" : 
+		{
+			"GiantRing.option" : 1,
+			"Ring.option" : 0
+		},
+		"Running Dust" : 
+		{
+			"dust.Aiz" : 1,
+			"dust.Cnz" : 1,
+			"dust.Dez" : 1,
+			"dust.Fbz" : 1,
+			"dust.Hcz" : 1,
+			"dust.Hpz" : 1,
+			"dust.Icz" : 2,
+			"dust.Lbz" : 1,
+			"dust.Lrz" : 1,
+			"dust.Mgz" : 1,
+			"dust.Mhz" : 1,
+			"dust.Soz" : 1,
+			"dust.Ssz" : 1,
+			"dust.speedtrigger" : 0
+		},
+		"S1 Special Stage Results" : 
+		{
+			"AnimatedSSRBackground" : 2
+		},
+		"S2_Tails_Mix" : 
+		{
+			"tailspalettes" : 0
+		},
+		"S375" : 
+		{
+			"bigringhide" : 50,
+			"bumrushprevention" : 1,
+			"coolbonus" : 1,
+			"ringprotect" : 2,
+			"showrank" : 1,
+			"srankbonus" : 1
+		},
+		"S3R" : 
+		{
+			"S3EXPANDEDSONICPALETTE" : 0
+		},
+		"SFX Customizer" : 
+		{
+			"AirTimerSFX" : 0,
+			"BlueSphereSFX" : 0,
+			"BossHitSFX" : 0,
+			"CheckpointSFX" : 0,
+			"CollapseSFX" : 0,
+			"DeathSFX" : 0,
+			"DropChargeSFX" : 0,
+			"DropReleaseSFX" : 0,
+			"EnergyBlastSFX" : 0,
+			"EnergyChargeSFX" : 0,
+			"GrabSFX" : 0,
+			"InstaShieldSFX" : 0,
+			"JumpSFX" : 0,
+			"LandSFX" : 0,
+			"LargeExplosionSFX" : 0,
+			"ObjectHitSFX" : 0,
+			"PeelChargeSFX" : 0,
+			"PeelReleaseSFX" : 0,
+			"PinballSFX" : 0,
+			"RingSFX" : 0,
+			"RingSpillSFX" : 0,
+			"RollSFX" : 0,
+			"SSTeleportSFX" : 0,
+			"SkidSFX" : 0,
+			"SmallExplosionSFX" : 0,
+			"SpecialRingSFX" : 0,
+			"SpikeHitSFX" : 0,
+			"SpikeShiftSFX" : 0,
+			"SpinChargeSFX" : 0,
+			"SpinReleaseSFX" : 0,
+			"SplashSFX" : 0,
+			"SpringSFX" : 0,
+			"TransformSFX" : 0
+		},
+		"SOZ 1 and 2 Backgrounds BMP Recreations - MAIN" : 
+		{
+			"ENABLE_CACTUSES" : 1,
+			"ENABLE_RUNNING_SAND" : 1,
+			"ENABLE_TUMBLEWEED" : 1
+		},
+		"SOZ1 Visuals Plus" : 
+		{
+			"ENABLE_CACTUSES" : 1,
+			"ENABLE_RUNNING_SAND" : 1,
+			"ENABLE_TUMBLEWEED" : 1
+		},
+		"Seamless LBZ2 To MHZ1 Transition" : 
+		{
+			"seamless.lbz2.to.mhz1.smooth.fade" : 1
+		},
+		"Separate Super and Hyper Sprites" : 
+		{
+			"SeparateSpritesDebugLevel" : 0,
+			"SeparateSpritesEnableDebugOutput" : 0,
+			"SeparateSpritesEnableHyperKnucklesSprites" : 2,
+			"SeparateSpritesEnableHyperSonicSprites" : 2,
+			"SeparateSpritesEnableHyperTailsSprites" : 2,
+			"SeparateSpritesEnableSuperKnucklesSprites" : 2,
+			"SeparateSpritesEnableSuperTailsSprites" : 2,
+			"SeparateSpritesHyperKnucklesGlide" : 2,
+			"SeparateSpritesHyperKnucklesGlideAnimSpeed" : 8,
+			"SeparateSpritesHyperKnucklesGlideTurn" : 2,
+			"SeparateSpritesHyperKnucklesStandingAnimSpeed" : 8,
+			"SeparateSpritesHyperKnucklesStandingSprites" : 2,
+			"SeparateSpritesHyperSonicDropdash" : 2,
+			"SeparateSpritesHyperSonicPeelout" : 2,
+			"SeparateSpritesHyperSonicStandingAnimSpeed" : 8,
+			"SeparateSpritesHyperSonicStandingSprites" : 2,
+			"SeparateSpritesHyperTailsStandingAnimSpeed" : 8,
+			"SeparateSpritesHyperTailsStandingSprites" : 2,
+			"SeparateSpritesKnucklesGlide" : 2,
+			"SeparateSpritesKnucklesGlideTurn" : 2,
+			"SeparateSpritesSuperKnucklesGlide" : 2,
+			"SeparateSpritesSuperKnucklesGlideAnimSpeed" : 8,
+			"SeparateSpritesSuperKnucklesGlideTurn" : 2,
+			"SeparateSpritesSuperKnucklesStandingAnimSpeed" : 8,
+			"SeparateSpritesSuperKnucklesStandingSprites" : 2,
+			"SeparateSpritesSuperSonicDropdash" : 2,
+			"SeparateSpritesSuperSonicPeelout" : 1,
+			"SeparateSpritesSuperSonicStandingAnimSpeed" : 8,
+			"SeparateSpritesSuperSonicStandingSprites" : 2,
+			"SeparateSpritesSuperTailsStandingAnimSpeed" : 8,
+			"SeparateSpritesSuperTailsStandingSprites" : 2,
+			"SeparateSpritesTailsTailsDebugOutput" : 0
+		},
+		"Shadow" : 
+		{
+			"Plane Tornado Pilot" : 0,
+			"Shadow Falling Sprites" : 0,
+			"Shadow Partner" : 0,
+			"shadowinfinite" : 0,
+			"speed shoes" : 0
+		},
+		"Simple Retry Blue Spheres" : 
+		{
+			"RetryBlueSpheres" : 1
+		},
+		"Smooth Mania Dusts" : 
+		{
+			"Dust.option" : 0
+		},
+		"Someone & Knux's Better Hud" : 
+		{
+			"BLAILS-MODE" : 0,
+			"Blue-Shoes" : 0,
+			"CDIcons" : 0,
+			"Continues Hud" : 0,
+			"EvilOGRomSpr" : 0,
+			"HudOption" : 0,
+			"InfiniteHud" : 0,
+			"IsHudItalic" : 0,
+			"MobilePosition" : 0,
+			"S3CCasualMode" : 0,
+			"SuperStarsPowerupHud" : 1,
+			"TitleCard" : 0,
+			"UseBmpHUDSprites" : 0
+		},
+		"Someone & Knux's Separete Super & Hyper Sprites" : 
+		{
+			"KnuckVictoryAnimation" : 1,
+			"SuperExtraSlotCharacter" : 1,
+			"SuperExtraSlotHud" : 1,
+			"SuperKnuck" : 0,
+			"SuperKnuckHud" : 0,
+			"SuperKnuckMonitor" : 0,
+			"SuperKnuckStandingAnim" : 0,
+			"SuperPartner" : 0,
+			"SuperPartnerHud" : 0,
+			"SuperSonic" : 0,
+			"SuperSonicHud" : 0,
+			"SuperSonicMonitor" : 0,
+			"SuperSonicPeelout" : 0,
+			"SuperTails" : 0,
+			"SuperTailsHud" : 0,
+			"SuperTailsMonitor" : 0,
+			"SuperTailsStandingAnim" : 0,
+			"TailsVictoryAnimation" : 1
+		},
+		"Someone & Knux's Super & Hyper Palettes" : 
+		{
+			"Knuckles-Super-N-Hyper-Palette" : 4,
+			"Sonic-Super-N-Hyper-Palette" : 4,
+			"Tails-Super-N-Hyper-Palette" : 4
+		},
+		"Someone & Knux's Zone Palettes" : 
+		{
+			"El-Color-De-Las-Zonas" : 3,
+			"efectos-visuales" : 0,
+			"el-fondo-del-data" : 0,
+			"mejoras-visuales-en-las-zonas" : 0
+		},
+		"Sonic 2 8 but Silver Sonic over lrz1 boss" : 
+		{
+			"silversonichealth" : 0,
+			"silversonictheme" : 0
+		},
+		"Sonic 3 & Knuckles Revision" : 
+		{
+			"FBZSkyBG" : 0
+		},
+		"Sonic 3 AIR resolution customizer" : 
+		{
+			"Screen Width" : 424
+		},
+		"Sonic 3 Goodliest Edition DEMO 2 31" : 
+		{
+			"GoodliestEditionHardMode" : 1,
+			"GoodliestEditionKnucklesLaughVariant" : 0,
+			"GoodliestEditionS3Shields" : 1,
+			"GoodliestEditionTurnTVSongsOff" : 0
+		},
+		"Sonic 3 Mixed Pause Menu" : 
+		{
+			"Language" : 0,
+			"Overlay" : 1,
+			"Texts" : 1,
+			"Title" : 0
+		},
+		"Sonic 3 New Animal Sprites" : 
+		{
+			"NASUse3XP" : 0
+		},
+		"Sonic 3D Blast Ending Themes" : 
+		{
+			"ymh.bg" : 1,
+			"ymh.canSkip" : 0,
+			"ymh.endType" : 2,
+			"ymh.lyricAppear" : 0,
+			"ymh.lyricDisplay" : 1,
+			"ymh.song" : 1,
+			"ymh.textColor" : 0,
+			"ymh.textStyle" : 1
+		},
+		"Sonic Advance 2 Boost-Mode" : 
+		{
+			"bmai" : 2,
+			"bmcharsknux" : 1,
+			"bmcharssonic" : 1,
+			"bmcharstails" : 1,
+			"bmpeel" : 1,
+			"bmsfx" : 0,
+			"bmspeed" : 1,
+			"locked successfully" : 1,
+			"no, definitely not emotes" : 1,
+			"scaling is dangerous" : 1,
+			"timergauge" : 1
+		},
+		"Sonic Galactic Walldash" : 
+		{
+			"DDButton" : 0,
+			"DDWJ" : 0,
+			"ESWalldash" : 0,
+			"InfWD" : 0
+		},
+		"Sonic Hoshi Star Dash 1.2" : 
+		{
+			"cooldowndash" : 2,
+			"powerdashstar" : 1
+		},
+		"Sonic OVA & Knuckles" : 
+		{
+			"Knux.Spin.options" : 0,
+			"KnuxPalettes" : 0,
+			"SonicPalettes" : 0,
+			"TailsPalettes" : 0
+		},
+		"Sound-Additions-Plus-S3AIR-main" : 
+		{
+			"soundadditions_bsmainmusic" : 1,
+			"soundadditions_bsresultsmusic" : 1,
+			"soundadditions_cmresultsmusic" : 2,
+			"soundadditions_hiddenpalacemusic" : 1,
+			"soundadditions_hpzknucklesmusic" : 1,
+			"soundadditions_maniasfx" : 1,
+			"soundadditions_mhz1intromusic" : 1,
+			"soundadditions_newsfx" : 1,
+			"soundadditions_originssfx" : 1,
+			"soundadditions_sfxreplacements" : 3,
+			"soundadditions_slotsfx" : 0,
+			"soundadditions_sszendmusic" : 1,
+			"soundadditions_uniquehypermusic" : 1,
+			"soundadditions_uniquesupermusic" : 1
+		},
+		"SoundAdditionsPlus.zip" : 
+		{
+			"soundadditions_bsmainmusic" : 1,
+			"soundadditions_bsresultsmusic" : 1,
+			"soundadditions_cmresultsmusic" : 2,
+			"soundadditions_hiddenpalacemusic" : 1,
+			"soundadditions_hpzknucklesmusic" : 1,
+			"soundadditions_maniasfx" : 1,
+			"soundadditions_mhz1intromusic" : 1,
+			"soundadditions_newsfx" : 1,
+			"soundadditions_originssfx" : 1,
+			"soundadditions_sfxreplacements" : 3,
+			"soundadditions_slotsfx" : 0,
+			"soundadditions_sszendmusic" : 1,
+			"soundadditions_uniquehypermusic" : 1,
+			"soundadditions_uniquesupermusic" : 1
+		},
+		"SpecialStageMap" : 
+		{
+			"showWhenPaused" : 1
+		},
+		"Speed Shoes Prevent Damage" : 
+		{
+			"need_speed" : 0
+		},
+		"Speedometer HUD" : 
+		{
+			"Speedometer Position" : 0
+		},
+		"Spindash Meter +" : 
+		{
+			"player1palette" : 0,
+			"player2palette" : 0
+		},
+		"Spring Twirl.zip" : 
+		{
+			"flamethrower" : 1,
+			"mushrooom" : 1,
+			"spring" : 1,
+			"teleport" : 1
+		},
+		"Standalone Cream" : 
+		{
+			"Cheese" : 1,
+			"Cream Peelout" : 1,
+			"Cream's Palette" : 0,
+			"Cream's Sprites" : 0
+		},
+		"Super Ring Drain Customizer" : 
+		{
+			"Drain Speed" : 2,
+			"Drain Speed 2" : 3
+		},
+		"The New-Verity" : 
+		{
+			"VerityEnabled" : 1,
+			"VerityReminder" : 1,
+			"VerityVoice" : 1
+		},
+		"The-Verity" : 
+		{
+			"VerityEnabled" : 1,
+			"VerityVoice" : 1
+		},
+		"Thok" : 
+		{
+			"Thok Button" : 16,
+			"Thok SFX" : 0,
+			"Thok Strength" : 1,
+			"Thok Style" : 0
+		},
+		"Title Cards Elements" : 
+		{
+			"BlueSphereResultStyle" : 0,
+			"MushroomValley" : 1,
+			"RedBarGameName" : 4
+		},
+		"Title Screen Customizer - Compatible Mod Options" : 
+		{
+			"AndKnucklesLogo" : 1,
+			"MenuOptions" : 2,
+			"NameGameText" : 0,
+			"S3BaseMovement" : 0,
+			"TSC_Config_Message" : 0,
+			"TitleIntroFrames" : 0
+		},
+		"Transform Button HUD" : 
+		{
+			"buttn" : 1
+		},
+		"Transform Button HUD 3" : 
+		{
+			"buttn" : 1
+		},
+		"Triple Trouble 16-bit Effects" : 
+		{
+			"BadnikParts" : 1,
+			"BadnikScreenshake" : 8,
+			"MonitorShards" : 1,
+			"ObjectScreenshake" : 16
+		},
+		"Tweaked AIZ1 Colors" : 
+		{
+			"AIZ1.palettes" : 0
+		},
+		"Ultimate Modgen Classic Tails" : 
+		{
+			"UltimatePaletteT" : 0,
+			"UltimateRollT" : 0,
+			"UltimateRunT" : 0,
+			"UltimateShoesT" : 0
+		},
+		"Unique Frozen Sprites" : 
+		{
+			"UniqueFrozenSprites.KnucklesSpriteMode" : 2,
+			"UniqueFrozenSprites.SonicSpriteMode" : 2,
+			"UniqueFrozenSprites.TailsSpriteMode" : 2,
+			"UniqueFrozenSprites.iceBlockBehaviour" : 1,
+			"UniqueFrozenSprites.iceBlockSprite" : 0,
+			"UniqueFrozenSprites.iceBlockSpriteG" : 1,
+			"UniqueFrozenSprites.superSonicSpriteMode" : 2
+		},
+		"Unique Zone Buttons" : 
+		{
+			"UniqueButtons_FBZbutton_int" : 1,
+			"UniqueButtons_HCZbutton_int" : 1,
+			"UniqueButtons_ICZ1button_int" : 1,
+			"UniqueButtons_ICZ2button_int" : 2,
+			"UniqueButtons_MHZbutton_int" : 1,
+			"UniqueButtons_SSZbutton_int" : 1
+		},
+		"Useott's Original Zone Order" : 
+		{
+			"useottsOriginalZoneOrder.FBZDataSelectPreview" : 0,
+			"useottsOriginalZoneOrder.allowKnucklesInFBZ" : 0,
+			"useottsOriginalZoneOrder.fbzPalettes" : 1,
+			"useottsOriginalZoneOrder.iczPalettes" : 1,
+			"useottsOriginalZoneOrder.mhzSunsetPalette" : 1
+		},
+		"Useott's Unburnt AIZ2" : 
+		{
+			"UseottsUnburntAIZ2.background" : 3,
+			"UseottsUnburntAIZ2.transition" : 0,
+			"UseottsUnburntAIZ2.unburn" : 0,
+			"UseottsUnburntAIZ2.usemusic" : 1
+		},
+		"VS Fang The Sniper" : 
+		{
+			"fangbosspalette" : 4
+		},
+		"Verity" : 
+		{
+			"VerityEnabled" : 1,
+			"VerityReminder" : 1,
+			"VerityVoice" : 1
+		},
+		"Walker" : 
+		{
+			"WalkerMusic" : 1
+		},
+		"WeatherMod PLUS" : 
+		{
+			"AIZ1Weather" : 9,
+			"AIZ2Weather" : 9,
+			"AIZColorPalettes" : 1,
+			"AIZWeatherPriority" : 1,
+			"BlizzardSounds" : 1,
+			"CNZ1Weather" : 1,
+			"CNZ2Weather" : 1,
+			"CNZWeatherPriority" : 0,
+			"CNZWindsTakesBalloons" : 1,
+			"DEZ1Weather" : 4,
+			"DEZ2Weather" : 5,
+			"DEZWeatherPriority" : 1,
+			"FBZ1Weather" : 7,
+			"FBZ2Weather" : 7,
+			"FBZColorPalettes" : 1,
+			"FrightenedTailsInThunderstorm" : 0,
+			"HCZ1Weather" : 1,
+			"HCZ2Weather" : 2,
+			"HCZWeatherPriority" : 0,
+			"HPZWeather" : 9,
+			"HPZWeatherPriority" : 1,
+			"ICZ1Weather" : 4,
+			"ICZ2Weather" : 4,
+			"ICZColorPalettes" : 1,
+			"ICZWeatherPriority" : 0,
+			"LBZ1Weather" : 4,
+			"LBZ2Weather" : 5,
+			"LBZ2WeatherBigArms" : 3,
+			"LBZColorPalettes" : 1,
+			"LBZWeatherPriority" : 0,
+			"LRZ1Weather" : 1,
+			"LRZ2Weather" : 9,
+			"LRZWeatherPriority" : 0,
+			"MGZ1Weather" : 3,
+			"MGZ2Weather" : 2,
+			"MGZColorPalettes" : 1,
+			"MGZWeatherPriority" : 0,
+			"MHZAutumnWeather" : 1,
+			"MHZColorPalettes" : 1,
+			"MHZSummerWeather" : 1,
+			"MHZWeatherPriority" : 0,
+			"MHZWinterWeather" : 7,
+			"MainMenuWeather" : 9,
+			"RainSounds" : 1,
+			"RainSprite" : 1,
+			"SOZ1Weather" : 6,
+			"SOZ1WeatherPriority" : 1,
+			"SOZ2Weather" : 10,
+			"SSZColorPalettes" : 1,
+			"SSZWeather" : 1,
+			"SSZWeatherPriority" : 1,
+			"SandstormSounds" : 1,
+			"SnowSprite" : 1,
+			"UnderwaterThunderstrikeShock" : 1,
+			"WeakLightningAndFireShields" : 1,
+			"WindPushesPlayer" : 2,
+			"WindSounds" : 1,
+			"weatherMod.chaosMode" : 0
+		},
+		"WeatherMod v3" : 
+		{
+			"AIZ1Weather" : 8,
+			"AIZ2Weather" : 9,
+			"AIZColorPalettes" : 1,
+			"AIZWeatherPriority" : 1,
+			"BlizzardSounds" : 1,
+			"CNZ1Weather" : 2,
+			"CNZ2Weather" : 3,
+			"CNZWeatherPriority" : 1,
+			"CNZWindsTakesBalloons" : 1,
+			"FBZ1Weather" : 8,
+			"FBZ2Weather" : 9,
+			"FBZColorPalettes" : 1,
+			"FrightenedTailsInThunderstorm" : 0,
+			"HCZ1Weather" : 2,
+			"HCZ2Weather" : 3,
+			"HCZWeatherPriority" : 1,
+			"ICZ1Weather" : 4,
+			"ICZ2Weather" : 4,
+			"ICZColorPalettes" : 1,
+			"ICZWeatherPriority" : 1,
+			"LBZ1Weather" : 2,
+			"LBZ2Weather" : 1,
+			"LBZ2WeatherBigArms" : 3,
+			"LBZColorPalettes" : 1,
+			"LBZWeatherPriority" : 1,
+			"LRZ1Weather" : 0,
+			"LRZWeatherPriority" : 1,
+			"MGZ1Weather" : 1,
+			"MGZ2Weather" : 2,
+			"MGZColorPalettes" : 1,
+			"MGZWeatherPriority" : 1,
+			"MHZAutumnWeather" : 9,
+			"MHZColorPalettes" : 1,
+			"MHZSummerWeather" : 8,
+			"MHZWeatherPriority" : 1,
+			"MHZWinterWeather" : 4,
+			"MainMenuWeather" : 9,
+			"RainSounds" : 1,
+			"RainSprite" : 1,
+			"SOZ1Weather" : 6,
+			"SOZ1WeatherPriority" : 1,
+			"SSZColorPalettes" : 1,
+			"SSZWeather" : 9,
+			"SSZWeatherPriority" : 1,
+			"SandstormSounds" : 1,
+			"SnowSprite" : 1,
+			"UnderwaterThunderstrikeShock" : 1,
+			"WeakLightningAndFireShields" : 1,
+			"WindPushesPlayer" : 2,
+			"WindSounds" : 1,
+			"weatherMod.chaosMode" : 0
+		},
+		"Xtra Dust Effects" : 
+		{
+			"JumpingDust" : 1,
+			"LandingDust" : 1,
+			"Opacity" : 1,
+			"PeeloutDust" : 1,
+			"RunningDust" : 1,
+			"SoundEffectsLandingDust" : 1,
+			"SoundEffectsRunningDust" : 0,
+			"SpeedThreshold" : 0
+		},
+		"Zone Stylized Spikes" : 
+		{
+			"DEZ Spikes Glowing" : 0
+		},
+		"[A S3AIR Modder]'s Reimagined Rendering" : 
+		{
+			"RR.hurtRotatOn" : 0,
+			"RR.landBuffer" : 4,
+			"RR.maniaAIAmount" : 16,
+			"RR.maniaAIOn" : 1,
+			"RR.reflectOn" : 1,
+			"RR.reflectOpacity" : 1,
+			"RR.rotatAngleSetting" : 1,
+			"RR.rotatSpeedSetting" : 100,
+			"RR.shadowOn" : 1,
+			"RR.shieldShadow" : 1,
+			"RR.speedAIOn" : 1,
+			"RR.squashOn" : 1
+		},
+		"[SHC] [contest2022] 690 - Mighty and Ray in Sonic 3 A.I.R. (By iCloudius)" : 
+		{
+			"'Mighty in' Text" : 0,
+			"Banner Display" : 0,
+			"Banner Text" : 1,
+			"Boost" : 1,
+			"Bounce Height" : 0,
+			"Custom Mappings" : 1,
+			"Elemental Shield Inputs" : 32,
+			"Elemental Shields" : 0,
+			"Expanded Hyper palette" : 0,
+			"From AIZ to that one zone" : 0,
+			"Grays" : 0,
+			"HUD Type" : 0,
+			"Hammer Drop Inputs" : 112,
+			"KnucklesPathAIZ" : 0,
+			"KnucklesPathICZ" : 0,
+			"MightyPalette" : 5,
+			"MightyPath" : 0,
+			"MightySprites" : 1,
+			"MightyWallJumpStyle" : 0,
+			"Partner" : 0,
+			"Partners" : 0,
+			"Ray Banner Display" : 0,
+			"Ray Banner Text" : 1,
+			"Ray Display" : 1,
+			"Ray HUD Type" : 0,
+			"Ray Unique speed shoes" : 0,
+			"Ray Zone Banner" : 0,
+			"Ray's Grays" : 0,
+			"Ray's Palette" : 0,
+			"RaySprites" : 1,
+			"RedOctobers" : 1,
+			"Screen Shake" : 0,
+			"SmoothRotation" : 1,
+			"Spike bounce" : 0,
+			"Spring Fall" : 1,
+			"Super Palettes" : 0,
+			"Tornado Pilot" : 0,
+			"Transform Fall" : 1,
+			"Uncurl" : 0,
+			"Underwater super/hyper palletes" : 1,
+			"Unique speed shoes" : 0,
+			"Wall Jump Inputs" : 112,
+			"White Flash" : 0,
+			"Zone Banner" : 0
+		},
+		"[SHC] [expo2023] 930 - Eggmans Revenge (By 1funniman).zip" : 
+		{
+			"aiz1_bossenabled1" : 2,
+			"aiz2_bossenabled1" : 3,
+			"cnz1_bossenabled1" : 2,
+			"cnz2_bossenabled1" : 2,
+			"ddz_bossenabled1" : 1,
+			"ddz_bossenabled1_2" : 1,
+			"deathfinalbosssz" : 1,
+			"dez2_bossenabled1" : 2,
+			"dez2bosshsraderDdwr" : 1,
+			"dez2bosshsraderDdwr2" : 2,
+			"dez_bossenabled1_1" : 1,
+			"dez_bossenabled1_2" : 1,
+			"dez_bossenabled1_3" : 1,
+			"fbz1_bossenabled1" : 1,
+			"fbz2_bossenabled1" : 2,
+			"fbz2mid_bossenabled1" : 2,
+			"hcz1_bossenabled1" : 2,
+			"hcz2_bossenabled1" : 2,
+			"hpz1_bossenabled1" : 3,
+			"icz1_bossenabled1" : 2,
+			"icz2_bossenabled1" : 2,
+			"launch these balls" : 0,
+			"lbz1_bossenabled1" : 3,
+			"lbz2_1_bossenabled1" : 1,
+			"lbz2_2_bossenabled1" : 2,
+			"lbz2_3_bossenabled1" : 3,
+			"lrz1_bossenabled1" : 3,
+			"lrz1_subosdhealthpoints" : 2,
+			"lrz1subbosshsraderlrd" : 1,
+			"lrz2_bossenabled1" : 1,
+			"lrz3actbosschange" : 1,
+			"lrz3actbosshpchabges" : 3,
+			"mechasoncii" : 0,
+			"mgz1_bossenabled1" : 3,
+			"mgz2_bossenabled1" : 1,
+			"mgz2knux_bossenabled1" : 2,
+			"mhz1_bossenabled1" : 3,
+			"mhz2_bossenabled1" : 1,
+			"sonicgotweakened" : 1,
+			"soz1_bossenabled1" : 1,
+			"soz2_bossenabled1" : 2,
+			"spikyball thinyg" : 0,
+			"ssz1_bossenabled1" : 2,
+			"ssz2_bossenabled1" : 2,
+			"warning icons are en" : 1
+		},
+		"afterimages" : 
+		{
+			"afterImageCount" : 3,
+			"afterImageOpacity" : 2,
+			"afterImageSPeed" : 2
+		},
+		"amy-galore-misc" : 
+		{
+			"ACCESS" : 3,
+			"BTNPROMPT" : 0
+		},
+		"catday's Arifkunviid's Tails" : 
+		{
+			"Sonic Palette" : 4
+		},
+		"chaotix ring tether" : 
+		{
+			"CameraStyle" : 0,
+			"Setting.AButtonMoves" : 1,
+			"Setting.ChainSprite" : 3,
+			"Setting.MainMechanicOfTheMod" : 1,
+			"Setting.PaletteChanges" : 1,
+			"Setting.SonicP2FlyinStyle" : 2,
+			"Setting.SpriteOpacity" : 1,
+			"TailsPartner" : 0
+		},
+		"classic-mode-sample-mod" : 
+		{
+			"Screen Width" : 320
+		},
+		"css_pause" : 
+		{
+			"CSSPause_MenuTextStyle" : 0,
+			"CSSPause_PauseAudio" : 1
+		},
+		"encorr" : 
+		{
+			"SonicRespawn" : 0
+		},
+		"hcz-zdux" : 
+		{
+			"zdux.DataSelectHCZ" : 0,
+			"zdux.line3" : 1
+		},
+		"hcz_zdux_hotfix" : 
+		{
+			"zdux.DataSelectHCZ" : 0,
+			"zdux.line3" : 1
+		},
+		"incredulous-knuckles-main" : 
+		{
+			"AllowKnucklesSSZ" : 0,
+			"DisableHPZMiniboss" : 1,
+			"ERZFlightCancel" : 1,
+			"HyperFlickies" : 1,
+			"HyperSpeedMode" : 1
+		},
+		"jam-pause-menu" : 
+		{
+			"SonicJamPause_Dialog" : 0,
+			"SonicJamPause_Restart" : 0,
+			"SonicJamPause_RestartText" : 0
+		},
+		"level object sprites smooth v7" : 
+		{
+			"paletteStyle" : 3,
+			"spriteStyle" : 2
+		},
+		"level objects sprites" : 
+		{
+			"paletteStyle" : 3,
+			"spriteStyle" : 2
+		},
+		"marble_garden_zone_z-dux_76aa5 5.zip" : 
+		{
+			"zdux.DataSelectERZ" : 0
+		},
+		"marble_garden_zone_z-dux_76aa5.zip" : 
+		{
+			"zdux.DataSelectERZ" : 0
+		},
+		"menu sprites - MAIN" : 
+		{
+			"DataSelectContinues" : 0,
+			"DataSelectMenuStyle" : 1
+		},
+		"menu sprites - MAIN (old)" : 
+		{
+			"DataSelectContinues" : 0,
+			"DataSelectMenuStyle" : 1
+		},
+		"mgz" : 
+		{
+			"zdux.DataSelectERZ" : 0
+		},
+		"misha_s_artwork_tails_style_mod.zip" : 
+		{
+			"PaletteSwitcher_Tails" : 0
+		},
+		"monitors_plus_v4" : 
+		{
+			"1UPStyle" : 3,
+			"BlueMonitorProb" : 50,
+			"BlueMonitorSwap" : 15,
+			"EggSFX" : 1,
+			"EggmanMonitorProb" : 10,
+			"EggmanMonitorSwap" : 2,
+			"FlameMonitorProb" : 10,
+			"FlameMonitorSwap" : 5,
+			"InvincMonitorProb" : 10,
+			"InvincMonitorSwap" : 13,
+			"InvincibilitySilent" : 1,
+			"LifeMonitorProb" : 10,
+			"LifeMonitorSwap" : 18,
+			"LifeOffReplace" : 3,
+			"LightningMonitorProb" : 10,
+			"LightningMonitorSwap" : 6,
+			"MultiRingValue" : 10,
+			"RandomMonitor" : 1,
+			"RandomMonitorBlue" : 0,
+			"RandomMonitorEgg" : 2,
+			"RandomMonitorFast" : 0,
+			"RandomMonitorFire" : 9,
+			"RandomMonitorGold" : 0,
+			"RandomMonitorHyperRing" : 0,
+			"RandomMonitorInvinc" : 9,
+			"RandomMonitorLife" : 10,
+			"RandomMonitorLightning" : 10,
+			"RandomMonitorMultiRing" : 0,
+			"RandomMonitorRandomRing" : 0,
+			"RandomMonitorRing" : 40,
+			"RandomMonitorS" : 0,
+			"RandomMonitorSlow" : 0,
+			"RandomMonitorSlowDown" : 0,
+			"RandomMonitorSpeed" : 8,
+			"RandomMonitorType" : 0,
+			"RandomMonitorWater" : 8,
+			"RingMonitorProb" : 10,
+			"RingMonitorSwap" : 14,
+			"RouletteMonitorFast" : 1,
+			"RouletteMonitorSlow" : 5,
+			"SpeedMonitorProb" : 10,
+			"SpeedMonitorSwap" : 4,
+			"SpeedSilent" : 0,
+			"WaterMonitorProb" : 10,
+			"WaterMonitorSwap" : 7
+		},
+		"object_style_options_dfbe9" : 
+		{
+			"isGreyShield" : 1,
+			"paletteStyle" : 0,
+			"sonic1Checkpoint" : 0,
+			"sonic1Shield" : 0,
+			"sonic1Spikes" : 0,
+			"sonic1Spring" : 0,
+			"spriteStyle" : 3,
+			"spriteStyleButton" : 0,
+			"spriteStyleCheckpoint" : 0,
+			"spriteStyleMonitor" : 0,
+			"spriteStyleRing" : 0,
+			"spriteStyleShield" : 0,
+			"spriteStyleSpike" : 0,
+			"spriteStyleSpring" : 0
+		},
+		"object_style_options_dfbe9.zip" : 
+		{
+			"isGreyShield" : 1,
+			"paletteStyle" : 5,
+			"sonic1Checkpoint" : 0,
+			"sonic1Shield" : 0,
+			"sonic1Spikes" : 0,
+			"sonic1Spring" : 0,
+			"spriteStyle" : 5,
+			"spriteStyleButton" : 5,
+			"spriteStyleCheckpoint" : 2,
+			"spriteStyleMonitor" : 5,
+			"spriteStyleRing" : 5,
+			"spriteStyleShield" : 5,
+			"spriteStyleSpike" : 5,
+			"spriteStyleSpring" : 5
+		},
+		"rings plus reworked" : 
+		{
+			"Glow.option" : 0,
+			"Hyper.option" : 0,
+			"Ring.option" : 0,
+			"Sparkle.option" : 0
+		},
+		"s3air-fbzcrash-main" : 
+		{
+			"CrashSound" : 0,
+			"ScreenFlash" : 1,
+			"WhereToCrash" : 1
+		},
+		"s3c_zone_icons_1bf5e.zip" : 
+		{
+			"ExtraIcons" : 1,
+			"spriteType" : 0
+		},
+		"shieldsrework_9e8ef" : 
+		{
+			"bubbleStyle" : 1,
+			"bubblemech" : 1,
+			"bubblepart" : 1,
+			"firemech" : 1,
+			"firepart" : 1,
+			"lightmech" : 1,
+			"lightpart" : 1
+		},
+		"spring twirl" : 
+		{
+			"flamethrower" : 1,
+			"mushrooom" : 1,
+			"spring" : 1,
+			"teleport" : 1
+		},
+		"springtwirlv1-4-1_2b03b" : 
+		{
+			"flamethrower" : 1,
+			"legacy" : 1,
+			"mushrooom" : 1,
+			"spring" : 1,
+			"teleport" : 1
+		},
+		"super_hyper_climbing_animations_ultray-style__c8259.zip" : 
+		{
+			"Chest Spot Color" : 0
+		},
+		"tornado animation" : 
+		{
+			"tornadosprite.option" : 0
+		},
+		"transform button & other huds.zip" : 
+		{
+			"buttn" : 1
+		},
+		"zec lunchbased" : 
+		{
+			"enable.Construction" : 0
+		}
+	},
+	"PerformanceDisplay" : 0,
+	"PlatformFlags" : -1,
+	"RenderMethod" : "opengl-soft",
+	"RomPath" : "C:/Users/User/AppData/Roaming/Sonic3AIR/Sonic_Knuckles_wSonic3.bin",
+	"Scanlines" : 1,
+	"ScriptOptimizationLevel" : -1,
+	"SimulationFrequency" : 60,
+	"Upscaling" : 0,
+	"VirtualGamepad" : 
+	{
+		"ButtonsPosX" : 0,
+		"ButtonsPosY" : 0,
+		"ButtonsSize" : 100,
+		"DPadPosX" : 0,
+		"DPadPosY" : 0,
+		"DPadSize" : 100,
+		"GameRecPosX" : 0,
+		"GameRecPosY" : 0,
+		"Opacity" : 0.80000001192092896,
+		"ShoulderLPosX" : 0,
+		"ShoulderLPosY" : 0,
+		"ShoulderRPosX" : 0,
+		"ShoulderRPosY" : 0,
+		"StartPosX" : 0,
+		"StartPosY" : 0
+	}
+}
